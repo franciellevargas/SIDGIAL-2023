@@ -1,0 +1,125 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="preparation">GENOCÍDIO MUNDIAL:</segment>
+    <segment id="2" parent="30" relname="span"> 13.867 mortos e 1.354.336 lesões provocadas pela vacinação afirma</segment>
+    <segment id="5" parent="2" relname="attribution"> relatório da Eudra Vigilance.</segment>
+    <segment id="6" parent="13" relname="span"> O Eudra Vigilance, é o banco de dados europeu de notificações de suspeitas de reações a medicamentos</segment>
+    <segment id="7" parent="6" relname="elaboration"> que também rastreia notificações de lesões e mortes após as “vacinas” experimentais COVID-19.</segment>
+    <segment id="12" parent="27" relname="purpose">Este site foi lançado pela  Agência Europeia de Medicamentos  em 2012</segment>
+    <segment id="14" parent="27" relname="span">  para fornecer acesso público com notificações de suspeitas de efeitos colaterais </segment>
+    <segment id="15" parent="14" relname="parenthetical"> (também conhecidos como suspeitas de reações adversas a medicamentos).</segment>
+    <segment id="16" parent="38" relname="purpose"> Estes relatórios são enviados eletronicamente</segment>
+    <segment id="38" parent="4" relname="span"> para a  EudraVigilance  pelas autoridades reguladoras nacionais de medicamentos e por empresas farmacêuticas</segment>
+    <segment id="31" parent="39" relname="span"> que possuem autorizações </segment>
+    <segment id="32" parent="31" relname="parenthetical">(licenças)</segment>
+    <segment id="33" parent="8" relname="same-unit"> de comercialização para os medicamentos.</segment>
+    <segment id="34" parent="42" relname="purpose">EudraVigilance é um sistema projetado</segment>
+    <segment id="42" parent="51" relname="span"> para coletar notificações de suspeitas de efeitos colaterais.</segment>
+    <segment id="43" parent="44" relname="joint"> Estes relatórios são utilizados para avaliar os benefícios e riscos dos medicamentos durante o seu desenvolvimento</segment>
+    <segment id="48" parent="58" relname="span"> e monitorizar a sua segurança após a sua autorização no Espaço Económico Europeu</segment>
+    <segment id="49" parent="48" relname="parenthetical"> (EEE).</segment>
+    <segment id="50" parent="44" relname="elaboration"> O EudraVigilance está em uso desde dezembro de 2001.</segment>
+    <segment id="60" parent="83" relname="span">Este site foi lançado para cumprir a Política de Acesso da  EudraVigilance ,</segment>
+    <segment id="61" parent="60" relname="elaboration"> que foi desenvolvida para melhorar a saúde pública,</segment>
+    <segment id="62" parent="84" relname="joint"> apoiando o monitoramento da segurança dos medicamentos</segment>
+    <segment id="63" parent="84" relname="joint"> e para aumentar a transparência para as partes interessadas, incluindo o público em geral.</segment>
+    <segment id="64" parent="66" relname="span"> O relatório até 5 de junho de 2021 lista 13.867 mortes e 1.354.336 feridos</segment>
+    <segment id="67" parent="64" relname="nonvolitional-result"> após injeções de quatro vacinas experimentais de COVID-19:</segment>
+    <segment id="68" parent="70" relname="sequence"> “O banco de dados  fornece informações sobre a suspeita de efeito indesejável;</segment>
+    <segment id="69" parent="71" relname="span"> pode ser classificado como &quot;grave&quot; se corresponder a uma ocorrência médica </segment>
+    <segment id="72" parent="95" relname="span">que resulta em  morte , é fatal, requer internação hospitalar, resulta em outra condição médica importante</segment>
+    <segment id="73" parent="94" relname="disjunction"> ou prolongamento da hospitalização existente, resulta em deficiência</segment>
+    <segment id="74" parent="94" relname="disjunction"> ou incapacidade persistente </segment>
+    <segment id="75" parent="94" relname="disjunction">ou significativa ,</segment>
+    <segment id="76" parent="94" relname="disjunction"> ou é uma anomalia congênita / defeito de nascença. ”</segment>
+    <segment id="77" parent="78" relname="purpose"> Um   representante do Health Impact News na Europa publicou os relatórios</segment>
+    <segment id="78" parent="96" relname="span"> para cada uma das quatro injeções do COVID-19 que incluímos aqui.</segment>
+    <segment id="79" parent="96" relname="elaboration">  Desde que começamos a publicá-lo, outros europeus também calcularam os números e confirmaram os totais.</segment>
+<group id="51" type="span" parent="55" relname="span" />
+<group id="83" type="span" parent="84" relname="purpose" />
+<group id="84" type="multinuc" parent="85" relname="span" />
+<group id="94" type="multinuc" parent="72" relname="elaboration" />
+<group id="96" type="span" parent="80" relname="span" />
+<group id="30" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="28" relname="span" />
+<group id="13" type="span" parent="37" relname="elaboration" />
+<group id="28" type="span" parent="11" relname="span" />
+<group id="28" type="span" parent="11" relname="span" />
+<group id="39" type="span" parent="8" relname="same-unit" />
+<group id="27" type="span" parent="3" relname="span" />
+<group id="3" type="span" parent="10" relname="span" />
+<group id="4" type="span" parent="9" relname="span" />
+<group id="8" type="multinuc" parent="4" relname="elaboration" />
+<group id="9" type="span" parent="3" relname="elaboration" />
+<group id="10" type="span" parent="28" relname="elaboration" />
+<group id="11" type="span" parent="47" relname="span" />
+<group id="58" type="span" parent="44" relname="joint" />
+<group id="44" type="multinuc" parent="59" relname="span" />
+<group id="59" type="span" parent="51" relname="elaboration" />
+<group id="55" type="span" parent="11" relname="elaboration" />
+<group id="47" type="span" parent="46" relname="span" />
+<group id="85" type="span" parent="47" relname="elaboration" />
+<group id="46" type="span" parent="93" relname="span" />
+<group id="66" type="span" parent="91" relname="span" />
+<group id="71" type="span" parent="70" relname="sequence" />
+<group id="95" type="span" parent="69" relname="elaboration" />
+<group id="70" type="multinuc" parent="97" relname="span" />
+<group id="80" type="span" parent="70" relname="elaboration" />
+<group id="97" type="span" parent="66" relname="elaboration" />
+<group id="91" type="span" parent="46" relname="elaboration" />
+<group id="93" type="span" />
+  </body>
+</rst>
