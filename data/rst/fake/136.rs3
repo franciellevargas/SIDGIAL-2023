@@ -1,0 +1,180 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="circumstance">Surpresa, surpresa, literalmente uma hora após o juramento de Joe Biden,</segment>
+    <segment id="3" parent="13" relname="attribution"> a OMS admitiu</segment>
+    <segment id="12" parent="13" relname="span"> que o teste de PCR produz altas taxas de amplificação,</segment>
+    <segment id="4" parent="12" relname="nonvolitional-result"> resultando num grande número de falsos positivos.</segment>
+    <segment id="5" parent="6" relname="attribution"> A OMS divulgou um relatório dizendo</segment>
+    <segment id="6" parent="15" relname="span"> que seu teste Covid superestima o número de falsos positivos.</segment>
+    <segment id="7" parent="18" relname="evaluation"> Não existe “pandemia”.</segment>
+    <segment id="8" parent="18" relname="span"> Existe um teste manipulado</segment>
+    <segment id="9" parent="8" relname="elaboration"> que cria resultados positivos que não existem.</segment>
+    <segment id="10" parent="19" relname="evaluation">
+
+A OMS escondeu a verdade sobre a pandemia desde o início.</segment>
+    <segment id="21" parent="22" relname="span"> Desde março de 2020 que a OMS estava relatando números falsos</segment>
+    <segment id="23" parent="21" relname="elaboration"> que exageravam grosseiramente a taxa de mortalidade do coronavírus.</segment>
+    <segment id="24" parent="25" relname="span"> Muitas pessoas suspeitaram que a pandemia desapareceria</segment>
+    <segment id="27" parent="24" relname="nonvolitional-result"> assim que Biden assumisse o cargo.</segment>
+    <segment id="26" parent="28" relname="attribution"> A OMS admitiu</segment>
+    <segment id="28" parent="37" relname="span"> que os testes de PCR deram origem a falsos positivos?</segment>
+    <segment id="29" parent="115" relname="preparation"> Vejamos o texto diretamente da OMS:</segment>
+    <segment id="30" parent="66" relname="attribution">
+Os testes de diagnóstico da OMS para SARS-CoV-2 afirmam</segment>
+    <segment id="31" parent="66" relname="span"> que é necessária uma interpretação cuidadosa dos resultados positivos fracos</segment>
+    <segment id="60" parent="31" relname="parenthetical"> ( 1 ).</segment>
+    <segment id="38" parent="65" relname="span"> O limite do ciclo </segment>
+    <segment id="61" parent="38" relname="parenthetical">(Ct)</segment>
+    <segment id="63" parent="48" relname="same-unit"> necessário para</segment>
+    <segment id="34" parent="35" relname="span"> detectar o vírus é inversamente proporcional à carga viral do paciente.</segment>
+    <segment id="39" parent="44" relname="circumstance"> Quando os resultados do teste não corresponderem à apresentação clínica,</segment>
+    <segment id="40" parent="44" relname="sequence"> uma nova amostra deve ser colhida</segment>
+    <segment id="41" parent="46" relname="disjunction"> e retestada usando a mesma</segment>
+    <segment id="42" parent="46" relname="disjunction"> ou diferente tecnologia NAT.</segment>
+    <segment id="43" parent="36" relname="attribution">
+A OMS lembra os usuários de IVD</segment>
+    <segment id="54" parent="36" relname="span"> que a prevalência da doença altera o valor preditivo dos resultados dos testes;</segment>
+    <segment id="55" parent="67" relname="contrast"> conforme a prevalência da doença diminui,</segment>
+    <segment id="56" parent="51" relname="span"> o risco de falsos positivos aumenta</segment>
+    <segment id="59" parent="56" relname="parenthetical"> ( 2 ).</segment>
+    <segment id="57" parent="70" relname="span"> Isso significa que a probabilidade de que uma pessoa com resultado positivo</segment>
+    <segment id="62" parent="57" relname="parenthetical"> (SARS-CoV-2 detectado)</segment>
+    <segment id="64" parent="72" relname="same-unit"> esteja realmente infectada com SARS-CoV-2 diminui</segment>
+    <segment id="71" parent="72" relname="nonvolitional-result"> à medida que a prevalência diminui, independentemente da especificidade alegada.</segment>
+    <segment id="58" parent="84" relname="span">
+
+A maioria dos ensaios de PCR é indicada como auxílio para o diagnóstico,</segment>
+    <segment id="74" parent="85" relname="same-unit"> portanto, os profissionais de saúde devem considerar qualquer resultado em combinação com</segment>
+    <segment id="76" parent="83" relname="list"> o momento da amostragem,</segment>
+    <segment id="75" parent="83" relname="list"> tipo de amostra,</segment>
+    <segment id="77" parent="83" relname="list"> dados específicos do ensaio,</segment>
+    <segment id="78" parent="83" relname="list"> observações clínicas,</segment>
+    <segment id="79" parent="83" relname="list"> histórico do paciente,</segment>
+    <segment id="80" parent="83" relname="list"> status confirmado de quaisquer contatos</segment>
+    <segment id="81" parent="83" relname="list"> e informações epidemiológicas.</segment>
+    <segment id="82" parent="87" relname="attribution">
+
+Muitos epidemiologistas alertam há meses</segment>
+    <segment id="87" parent="88" relname="span"> que os testes de PCR costumam dar até 97% de falsos positivos.</segment>
+    <segment id="89" parent="88" relname="elaboration"> E muitos lugares testaram limites de ciclo acima de 40.</segment>
+    <segment id="90" parent="52" relname="evaluation"> Essa é uma receita para falsos positivos.</segment>
+    <segment id="91" parent="53" relname="elaboration"> O site ZeroHedge fez uma ótima matéria a respeito.
+</segment>
+    <segment id="92" parent="123" relname="span">
+COMO OS FABRICANTES DE VACINAS APRENDERAM A CRIAR PSEUDO-EPIDEMIAS COMO O COVID-19.</segment>
+    <segment id="97" parent="92" relname="justify"> POR QUE O COVID NUNCA VAI ACABAR.</segment>
+    <segment id="98" parent="124" relname="span">
+Prepare-se para Biden ganhar crédito</segment>
+    <segment id="99" parent="98" relname="justify"> por “acabar com a pandemia”</segment>
+    <segment id="100" parent="124" relname="evaluation"> e não se surpreenda se eles derem a ele um Prêmio Nobel.</segment>
+    <segment id="101" parent="114" relname="joint"> A verdade é que milhões de pessoas perderem seus empregos</segment>
+    <segment id="103" parent="114" relname="joint"> e milhares de pequenas e médias empresas foram a falência no mundo todo</segment>
+    <segment id="106" parent="114" relname="justify"> por causa de quarentenas e lockdowns sem fim,</segment>
+    <segment id="111" parent="113" relname="justify"> por causa de um falsa pandemia criada </segment>
+    <segment id="112" parent="108" relname="span">para favorecer políticos e grandes corporações.</segment>
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="16" relname="span" />
+<group id="15" type="span" parent="16" relname="summary" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="17" relname="span" />
+<group id="65" type="span" parent="48" relname="same-unit" />
+<group id="48" type="span" parent="34" relname="purpose" />
+<group id="48" type="span" parent="34" relname="purpose" />
+<group id="51" type="span" parent="67" relname="contrast" />
+<group id="70" type="span" parent="72" relname="same-unit" />
+<group id="72" type="multinuc" parent="73" relname="span" />
+<group id="73" type="span" parent="50" relname="span" />
+<group id="83" type="multinuc" parent="85" relname="same-unit" />
+<group id="84" type="span" parent="73" relname="elaboration" />
+<group id="85" type="multinuc" parent="86" relname="span" />
+<group id="86" type="span" parent="58" relname="conclusion" />
+<group id="123" type="span" parent="68" relname="elaboration" />
+<group id="16" type="span" parent="2" relname="span" />
+<group id="2" type="span" parent="11" relname="span" />
+<group id="17" type="span" parent="2" relname="evaluation" />
+<group id="11" type="span" parent="32" relname="span" />
+<group id="25" type="span" parent="118" relname="span" />
+<group id="37" type="span" parent="117" relname="span" />
+<group id="66" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="115" relname="span" />
+<group id="35" type="span" parent="45" relname="span" />
+<group id="46" type="multinuc" parent="44" relname="sequence" />
+<group id="44" type="multinuc" parent="47" relname="span" />
+<group id="47" type="span" parent="35" relname="elaboration" />
+<group id="45" type="span" parent="20" relname="elaboration" />
+<group id="51" type="span" parent="67" relname="contrast" />
+<group id="67" type="multinuc" parent="54" relname="elaboration" />
+<group id="36" type="span" parent="49" relname="span" />
+<group id="49" type="span" parent="104" relname="span" />
+<group id="50" type="span" parent="105" relname="span" />
+<group id="88" type="span" parent="52" relname="span" />
+<group id="52" type="span" parent="53" relname="span" />
+<group id="53" type="span" parent="68" relname="span" />
+<group id="68" type="span" parent="107" relname="span" />
+<group id="124" type="span" parent="125" relname="span" />
+<group id="125" type="span" parent="94" relname="evaluation" />
+<group id="114" type="multinuc" parent="113" relname="span" />
+<group id="113" type="span" parent="110" relname="span" />
+<group id="110" type="span" parent="112" relname="purpose" />
+<group id="108" type="span" parent="95" relname="evaluation" />
+<group id="107" type="span" parent="50" relname="elaboration" />
+<group id="105" type="span" parent="49" relname="elaboration" />
+<group id="104" type="span" parent="118" relname="elaboration" />
+<group id="115" type="span" parent="116" relname="span" />
+<group id="116" type="span" parent="37" relname="elaboration" />
+<group id="117" type="span" parent="25" relname="elaboration" />
+<group id="118" type="span" parent="94" relname="span" />
+<group id="94" type="span" parent="95" relname="span" />
+<group id="95" type="span" parent="96" relname="span" />
+<group id="96" type="span" parent="32" relname="elaboration" />
+<group id="22" type="span" parent="11" relname="elaboration" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" />
+  </body>
+</rst>
