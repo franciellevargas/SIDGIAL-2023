@@ -1,0 +1,113 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="evaluation">Em mais uma decisão questionável,</segment>
+    <segment id="2" parent="11" relname="span"> STF ignora a história e proíbe Bíblia em escolas e bibliotecas públicas.</segment>
+    <segment id="3" parent="22" relname="contrast"> Corte argumenta que a decisão obedece ao princípio da laicidade estatal,</segment>
+    <segment id="4" parent="22" relname="contrast"> mas a importância do livro sagrado vai muito além da religião.</segment>
+    <segment id="5" parent="6" relname="evaluation"> O Brasil está caindo aos pedaços,</segment>
+    <segment id="6" parent="12" relname="span"> com o governo dividido entre o presidente Bolsonaro e o Supremo Tribunal Federal.</segment>
+    <segment id="7" parent="9" relname="evaluation"> Um único ministro manda mais do que todo mundo no país.</segment>
+    <segment id="8" parent="14" relname="evaluation"> Na verdade, isso aqui virou uma balbúrdia.</segment>
+    <segment id="10" parent="55" relname="purpose"> Mesmo assim, o outro governo, o STF, encontra tempo</segment>
+    <segment id="55" parent="64" relname="span"> para determinações que não cabem mais num Brasil cansado de tantas manobras e mau-caratismo em toda parte.</segment>
+    <segment id="26" parent="61" relname="purpose"> Pois o tribunal encontrou um tempinho vago</segment>
+    <segment id="58" parent="61" relname="span"> para derrubar, em votação concluída nesta segunda-feira, 12, a chamada Lei Amazonas, </segment>
+    <segment id="27" parent="58" relname="elaboration">que obrigava a manter pelo menos um exemplar da Bíblia nas bibliotecas e escolas estaduais. </segment>
+    <segment id="29" parent="30" relname="preparation">Vejam bem:</segment>
+    <segment id="30" parent="69" relname="span"> não se discute aqui nenhuma religião.</segment>
+    <segment id="31" parent="33" relname="concession"> Neste caso, religião não entra, </segment>
+    <segment id="33" parent="32" relname="span">embora o foco seja a Bíblia. </segment>
+    <segment id="34" parent="37" relname="attribution">A relatora da matéria, ministra Cármen Lúcia, afirmou</segment>
+    <segment id="37" parent="25" relname="span"> que a norma é uma ofensa ao princípio da laicidade estatal, da liberdade religiosa e da isonomia entre os cidadãos.</segment>
+    <segment id="40" parent="82" relname="span"> Palmas para ela!</segment>
+    <segment id="41" parent="40" relname="restatement"> Muitas palmas, auditório! </segment>
+    <segment id="42" parent="43" relname="attribution">Os ministros do STF chegaram à conclusão</segment>
+    <segment id="43" parent="24" relname="span"> que manter um exemplar de uma Bíblia numa biblioteca ou escola estadual é inconstitucional.</segment>
+    <segment id="45" parent="46" relname="attribution"> Cármen Lúcia, do alto de sua sabedoria, observou</segment>
+    <segment id="46" parent="23" relname="span"> que a existência de um exemplar do livro sagrado em um espaço público estatal institui um comportamento de divulgação, estímulo e promoção de um conjunto de dogmas e crenças.</segment>
+    <segment id="47" parent="48" relname="attribution"> A ministra adiantou </segment>
+    <segment id="48" parent="20" relname="span">que isso prejudica outros segmentos religiosos, o que configura uma ofensa ao princípio da laicidade estatal, da liberdade religiosa e a isonomia entre os cidadãos brasileiros.</segment>
+    <segment id="49" parent="18" relname="attribution"> De acordo com a ministra,</segment>
+    <segment id="117" parent="18" relname="span"> a norma desprestigia outros livros sagrados perante aos estudantes que professam outras crenças</segment>
+    <segment id="50" parent="117" relname="parenthetical"> (e também aos ateus).</segment>
+<group id="69" type="span" parent="70" relname="span" />
+<group id="32" type="span" parent="69" relname="restatement" />
+<group id="70" type="span" parent="62" relname="elaboration" />
+<group id="82" type="span" parent="25" relname="evaluation" />
+<group id="22" type="span" parent="11" relname="elaboration" />
+<group id="22" type="span" parent="11" relname="elaboration" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="12" type="span" parent="13" relname="evaluation" />
+<group id="61" type="span" parent="59" relname="span" />
+<group id="59" type="span" parent="64" relname="justify" />
+<group id="64" type="span" parent="62" relname="span" />
+<group id="13" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="17" relname="span" />
+<group id="62" type="span" parent="81" relname="span" />
+<group id="81" type="span" parent="16" relname="elaboration" />
+<group id="17" type="span" parent="39" relname="span" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="elaboration" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="36" relname="elaboration" />
+<group id="23" type="span" parent="35" relname="evaluation" />
+<group id="25" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="35" relname="span" />
+<group id="24" type="span" parent="28" relname="elaboration" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="17" relname="elaboration" />
+<group id="39" type="span" />
+  </body>
+</rst>
