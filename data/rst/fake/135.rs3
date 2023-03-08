@@ -1,0 +1,150 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="70" relname="span">A VERDADE QUE A CHINA ESCONDE:</segment>
+    <segment id="2" parent="1" relname="parenthetical"> (Edição e tradução do link de Sandra Valeria)</segment>
+    <segment id="3" parent="10" relname="same-unit">
+Coronavírus na China:</segment>
+    <segment id="4" parent="9" relname="list"> mais de 30 milhões em quarentena,</segment>
+    <segment id="6" parent="9" relname="list"> 2,8 milhões infectados;</segment>
+    <segment id="8" parent="9" relname="list"> 112.000 MORTOS!</segment>
+    <segment id="7" parent="9" relname="elaboration"> Pessoas caindo mortas pelas ruas e trens!</segment>
+    <segment id="5" parent="73" relname="elaboration"> Supermercados sem mantimentos!</segment>
+    <segment id="11" parent="74" relname="attribution"> - Programa de rádio de Hal Turner.</segment>
+    <segment id="12" parent="15" relname="volitional-cause"> O surto de um suposto novo coronavírus na China está completamente fora de controle</segment>
+    <segment id="15" parent="13" relname="span"> e está matando MILHARES todos os dias.</segment>
+    <segment id="16" parent="17" relname="span"> A partir das 18:00, horário do leste dos EUA, em 23 de janeiro, fontes da Covert Intelligence</segment>
+    <segment id="18" parent="16" relname="elaboration"> que são ex-colegas dos meus 15 anos no FBI, os últimos cinco anos lidando com Segurança Nacional, Terrorismo e Contra-Inteligência Estrangeira na Força-Tarefa Conjunta de Terrorismo e que atualmente estão na China,</segment>
+    <segment id="20" parent="14" relname="span"> confirmam mais de 2,8 milhões de pessoas infectadas com 112.000 mortos até agora.</segment>
+    <segment id="21" parent="22" relname="preparation"> Principal causa de morte:</segment>
+    <segment id="22" parent="79" relname="span"> falha de múltiplos órgãos.</segment>
+    <segment id="23" parent="79" relname="evaluation"> Isso se desvia enormemente do número PUBLICLY relatado de 830 infectados e 25 mortes por causa... pronto para isso....</segment>
+    <segment id="27" parent="28" relname="attribution"> Uma mesagem de um médico de linha de frente em Wuhan confirmou</segment>
+    <segment id="28" parent="86" relname="span"> que a razão do corescente número de infectados é porque os hospitais acabaram com os kits de teste de vírus...</segment>
+    <segment id="29" parent="88" relname="nonvolitional-result"> Os milhares de mortos estão sendo levados diretamente para os incineradores.</segment>
+    <segment id="30" parent="88" relname="sequence"> Nenhum funeral.</segment>
+    <segment id="31" parent="88" relname="sequence"> Nenhum enterro.</segment>
+    <segment id="32" parent="89" relname="evaluation"> Apenas queimou.</segment>
+    <segment id="33" parent="90" relname="elaboration"> A Intel está obtendo sua contagem real de mortes diretamente dos operadores do incinerador!!!!!</segment>
+    <segment id="34" parent="26" relname="evaluation"> As pessoas estão literalmente &quot;caindo mortas&quot;.</segment>
+    <segment id="36" parent="76" relname="span"> As Forças Armadas chinesas agora estão ajudando no bloqueio de várias cidades chinesas.</segment>
+    <segment id="37" parent="36" relname="elaboration"> Todos estão vestindo trajes de proteção biológica.</segment>
+    <segment id="38" parent="39" relname="attribution"> A comissão Militar Central do PCC ordenou</segment>
+    <segment id="39" parent="96" relname="span"> que o Comando Central auxiliasse o bloqueio de Wuhan em resposta à instabilidade social devido a emoções de pânico.</segment>
+    <segment id="41" parent="77" relname="elaboration"> Os soldados estavam equipados com equipamentos de proteção biológica e juraram vencer a campanha.</segment>
+    <segment id="42" parent="78" relname="elaboration"> O equipamento motorizado será colocado em uso.</segment>
+    <segment id="43" parent="47" relname="purpose"> Veículos blindados Dongfeng EQ2050, veículos blindados de transporte de pessoal e tanques leves foram usados</segment>
+    <segment id="47" parent="61" relname="span"> para defender os bloqueios nas estradas.</segment>
+    <segment id="48" parent="61" relname="elaboration"> Ainda mais surpreendente, os chineses de toda a provpincia de Zhejiang foram instruídos a permanecer em suas casas.</segment>
+    <segment id="49" parent="45" relname="interpretation"> Dizem que 60 milhões de pessoas ficam onde estão.</segment>
+    <segment id="51" parent="60" relname="span"> Não é uma quarentena oficial </segment>
+    <segment id="52" parent="51" relname="parenthetical">(ainda)</segment>
+    <segment id="50" parent="59" relname="contrast">, mas um conselho bastante redigido.</segment>
+    <segment id="54" parent="25" relname="evaluation"> O fracasso sistêmico da socidade chinesa já começou.</segment>
+    <segment id="55" parent="116" relname="span"> Neste domingo, o pânico total será inevitável,</segment>
+    <segment id="57" parent="55" relname="justify"> pois as pessoas percebem que comida, remédios e médicos são recursos finitos e a triagem está em vigor.</segment>
+    <segment id="63" parent="124" relname="span"> As lojas já estão sem comida.</segment>
+    <segment id="64" parent="123" relname="span"> Não há literalmente ALIMENTOS DEIXADOS nas cidades sob quarentena,</segment>
+    <segment id="65" parent="64" relname="justify"> porque não é permitido o transporte de caminhões!</segment>
+    <segment id="66" parent="125" relname="span"> Quando a China entrar em colaśo</segment>
+    <segment id="67" parent="66" relname="evaluation"> - e parece que vai acontecer -</segment>
+    <segment id="68" parent="126" relname="span"> o colapso da China desencadeará uma onda de choque econômico global</segment>
+    <segment id="69" parent="68" relname="elaboration"> da qual o planeta não poderá se recuperar por décadas.</segment>
+<group id="70" type="span" parent="10" relname="same-unit" />
+<group id="13" type="span" parent="19" relname="span" />
+<group id="79" type="span" parent="24" relname="span" />
+<group id="86" type="span" parent="24" relname="elaboration" />
+<group id="88" type="multinuc" parent="89" relname="span" />
+<group id="89" type="span" parent="90" relname="span" />
+<group id="90" type="span" parent="92" relname="span" />
+<group id="92" type="span" parent="82" relname="elaboration" />
+<group id="96" type="span" parent="76" relname="elaboration" />
+<group id="123" type="span" parent="63" relname="elaboration" />
+<group id="124" type="span" parent="116" relname="elaboration" />
+<group id="125" type="span" parent="126" relname="circumstance" />
+<group id="126" type="span" parent="127" relname="span" />
+<group id="127" type="span" parent="40" relname="evaluation" />
+<group id="10" type="multinuc" parent="71" relname="elaboration" />
+<group id="9" type="multinuc" parent="73" relname="span" />
+<group id="73" type="span" parent="74" relname="span" />
+<group id="74" type="span" parent="71" relname="span" />
+<group id="71" type="span" parent="72" relname="span" />
+<group id="72" type="span" parent="75" relname="span" />
+<group id="13" type="span" parent="19" relname="span" />
+<group id="17" type="span" parent="20" relname="attribution" />
+<group id="14" type="span" parent="13" relname="elaboration" />
+<group id="19" type="span" parent="72" relname="elaboration" />
+<group id="75" type="span" parent="25" relname="span" />
+<group id="24" type="span" parent="82" relname="span" />
+<group id="82" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="35" relname="span" />
+<group id="25" type="span" parent="62" relname="span" />
+<group id="35" type="span" parent="117" relname="span" />
+<group id="76" type="span" parent="77" relname="span" />
+<group id="77" type="span" parent="78" relname="span" />
+<group id="78" type="span" parent="58" relname="span" />
+<group id="58" type="span" parent="120" relname="span" />
+<group id="61" type="span" parent="45" relname="span" />
+<group id="60" type="span" parent="59" relname="contrast" />
+<group id="59" type="multinuc" parent="56" relname="evaluation" />
+<group id="45" type="span" parent="56" relname="span" />
+<group id="56" type="span" parent="115" relname="span" />
+<group id="115" type="span" parent="58" relname="elaboration" />
+<group id="120" type="span" parent="35" relname="elaboration" />
+<group id="117" type="span" parent="75" relname="elaboration" />
+<group id="116" type="span" parent="40" relname="span" />
+<group id="62" type="span" parent="46" relname="span" />
+<group id="40" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="62" relname="elaboration" />
+<group id="46" type="span" />
+  </body>
+</rst>
