@@ -1,0 +1,128 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Triste:</segment>
+    <segment id="2" parent="4" relname="span"> Morre Idosa que foi presa por não pagar pensão do neto e sofreu estupro na cadeia.</segment>
+    <segment id="5" parent="6" relname="span"> Uma idosa de 82 anos foi presa no município de T. Sampaio, no centro-norte da Bahia,</segment>
+    <segment id="7" parent="5" relname="nonvolitional-result"> após o filho deixar de pagar a pensão alimentícia do filho dele.</segment>
+    <segment id="8" parent="15" relname="contrast">O marido da idosa também teve o mandado de prisão expedido pela Justiça,</segment>
+    <segment id="9" parent="15" relname="contrast"> mas segundo a polícia, o homem faleceu há dois meses.</segment>
+    <segment id="10" parent="19" relname="span">Familiares informaram a policia</segment>
+    <segment id="18" parent="10" relname="elaboration"> que o filho da idosa estaria em uma viagem de férias para Porto Seguro, no momento em que a mãe foi presa.</segment>
+    <segment id="20" parent="22" relname="contrast">Parentes também disseram que a idosa é aposentada que não tem condições de pagar a pensão,</segment>
+    <segment id="23" parent="22" relname="contrast"> mas mesmo assim foi levada para delegacia.</segment>
+    <segment id="24" parent="40" relname="span"> Ela recebe mensalmente R$ 629,34</segment>
+    <segment id="32" parent="39" relname="span"> e só de medicamentos gasta mais de R$ 400,00</segment>
+    <segment id="33" parent="32" relname="elaboration"> com medicamentos tarja preta.</segment>
+    <segment id="34" parent="43" relname="span">Na Delegacia a senhora de 82 anos foi violentada sexualmente por detentas</segment>
+    <segment id="35" parent="34" relname="elaboration"> que aplicam este “castigo” em pessoas que cometem crimes contra a família, especialmente contra menores.</segment>
+    <segment id="38" parent="43" relname="elaboration">Deixar uma criança sem pagamento de pensão é falta grave no código moral das detentas.</segment>
+    <segment id="46" parent="48" relname="attribution"> Segundo Analice Tesourão, detenta da unidade,</segment>
+    <segment id="48" parent="65" relname="span"> “deixar um menor passar fome é muita sacanagem.Chega aqui a gente apavora mesmo. Passa na mão da geral pra aprender a ser mulher”.</segment>
+    <segment id="51" parent="41" relname="span">Depois de 6 dias na cadeia a dívida foi honrada graças a uma rifa realizada pelos membros da paróquia da Sagrada Família</segment>
+    <segment id="53" parent="51" relname="elaboration"> que venderam 300 bilhetes por R$ 10 aos moradores de T. Sampaio, e assim arrecadaram R$ 3.000,00 rifando uma TV LCD de 32 polegadas que havia custado R$ 970,00.</segment>
+    <segment id="56" parent="66" relname="elaboration">A pensão devida possui o valor de R$ 300 mensal e estava a 6 meses atrasada.</segment>
+    <segment id="69" parent="70" relname="condition"> Caso o filho volte a atrasar o pagamento</segment>
+    <segment id="70" parent="74" relname="span"> a senhora deve voltar para as grades.</segment>
+    <segment id="71" parent="78" relname="span">A nova lei de pensão alimentícia, que começou a valer em março deste ano, é mais rigorosa para quem atrasa o pagamento da pensão para os filhos.</segment>
+    <segment id="79" parent="71" relname="elaboration"> O devedor pode pegar até três meses de prisão em regime fechado.</segment>
+    <segment id="80" parent="92" relname="contrast"> A pena não livra a pessoa da dívida,</segment>
+    <segment id="86" parent="91" relname="span"> mas ela poderá ser solta a qualquer momento</segment>
+    <segment id="87" parent="86" relname="condition"> se quitar o débito.</segment>
+    <segment id="88" parent="94" relname="contrast"> Os avós podem ser responsabilizados pela dívida, </segment>
+    <segment id="89" parent="94" relname="contrast">mas somente quando os pais da criança não têm condições de arcar com a pensão.</segment>
+    <segment id="90" parent="118" relname="span">Apos triste golpe que sofreu do destino, hoje de manhã terminou a dura vida dessa pobre senhora,</segment>
+    <segment id="98" parent="106" relname="contrast"> que viveu sua sofrida existência sempre trabalhando de sol a sol em serviços braçais e de modo honesto,</segment>
+    <segment id="100" parent="106" relname="contrast"> mas por irresponsabilidade do filho e da ex nora, vai levar para o tumulo a amarga experiencia de ser presa e violentada na cadeia, sem ao menos ter cometido algum tipo de crime,</segment>
+    <segment id="104" parent="105" relname="elaboration"> o corpo esta sendo velado na capela municipal, o enterro foi marcado para as 16 horas.</segment>
+    <segment id="108" parent="124" relname="joint">Enquanto isso políticos corruptos pegos com milhares de reais, roubados do povo ainda permanecem em liberdade</segment>
+    <segment id="109" parent="124" relname="joint"> e quando são presos, cumprem a pena no conforto de suas luxuosas casas.</segment>
+<group id="15" type="multinuc" parent="3" relname="elaboration" />
+<group id="39" type="span" parent="24" relname="comparison" />
+<group id="40" type="span" parent="21" relname="elaboration" />
+<group id="43" type="span" parent="57" relname="span" />
+<group id="91" type="span" parent="92" relname="contrast" />
+<group id="92" type="multinuc" parent="78" relname="elaboration" />
+<group id="94" type="multinuc" parent="105" relname="span" />
+<group id="124" type="multinuc" parent="119" relname="evaluation" />
+<group id="4" type="span" parent="3" relname="span" />
+<group id="6" type="span" parent="4" relname="elaboration" />
+<group id="3" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="25" relname="span" />
+<group id="19" type="span" parent="21" relname="span" />
+<group id="25" type="span" parent="62" relname="span" />
+<group id="22" type="multinuc" parent="19" relname="elaboration" />
+<group id="21" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="11" relname="elaboration" />
+<group id="57" type="span" parent="25" relname="elaboration" />
+<group id="62" type="span" parent="73" relname="span" />
+<group id="65" type="span" parent="66" relname="span" />
+<group id="66" type="span" parent="72" relname="span" />
+<group id="41" type="span" parent="65" relname="elaboration" />
+<group id="72" type="span" parent="84" relname="span" />
+<group id="74" type="span" parent="72" relname="elaboration" />
+<group id="84" type="span" parent="62" relname="elaboration" />
+<group id="73" type="span" parent="97" relname="span" />
+<group id="78" type="span" parent="77" relname="span" />
+<group id="77" type="span" parent="112" relname="span" />
+<group id="112" type="span" parent="73" relname="elaboration" />
+<group id="97" type="span" parent="101" relname="span" />
+<group id="106" type="multinuc" parent="90" relname="elaboration" />
+<group id="118" type="span" parent="94" relname="elaboration" />
+<group id="105" type="span" parent="119" relname="span" />
+<group id="119" type="span" parent="103" relname="span" />
+<group id="103" type="span" parent="97" relname="elaboration" />
+<group id="101" type="span" />
+  </body>
+</rst>
