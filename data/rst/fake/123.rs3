@@ -1,0 +1,98 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="span">Brasil é o único país</segment>
+    <segment id="28" parent="1" relname="elaboration"> que utiliza urnas eletrônicas sem voto impresso.</segment>
+    <segment id="2" parent="4" relname="elaboration"> Mais de trinta países adotaram diversas versões de urna eletrônica, todas com voto impresso.</segment>
+    <segment id="6" parent="31" relname="span"> O Brasil já perdeu há muito tempo o direito ao ufanismo</segment>
+    <segment id="30" parent="6" relname="justify"> pela criação da urna eletrônica, em 1996.</segment>
+    <segment id="7" parent="8" relname="joint"> Além de usar equipamentos anacrônicos, de 1ª geração, </segment>
+    <segment id="9" parent="8" relname="joint">o Brasil é o único País do mundo a não adotar o voto impresso,</segment>
+    <segment id="10" parent="8" relname="elaboration"> entre os que têm sistema eletrônico de votação.</segment>
+    <segment id="11" parent="3" relname="span"> Hoje, três dezenas de países adotaram diversas versões de urna eletrônica,</segment>
+    <segment id="13" parent="11" relname="background"> todas com voto impresso.</segment>
+    <segment id="14" parent="5" relname="contrast"> Enquanto isso, a urna brasileira perde espaço.</segment>
+    <segment id="16" parent="40" relname="span"> O Equador,</segment>
+    <segment id="18" parent="16" relname="elaboration"> que a utilizou em 2004,</segment>
+    <segment id="17" parent="52" relname="same-unit"> optou pelas urnas de segunda e terceira gerações.</segment>
+    <segment id="19" parent="52" relname="attribution"> A informação é da Coluna Cláudio Humberto, do Diário do Poder.</segment>
+    <segment id="21" parent="22" relname="circumstance">Já há 13 anos, 39 estados dos EUA, 3 do México e várias províncias do Canadá </segment>
+    <segment id="22" parent="20" relname="span">passaram a exigir voto impresso em urnas eletrônicas.</segment>
+    <segment id="23" parent="46" relname="preparation"> Até o Paraguai desconfia na urna eletrônica brasileira:</segment>
+    <segment id="24" parent="25" relname="volitional-result"> após testá-la entre 2003 e 2006,</segment>
+    <segment id="25" parent="46" relname="span"> proibiu sua utilização desde 2008.</segment>
+    <segment id="26" parent="50" relname="purpose"> Em 2009, a Alemanha proibiu urna eletrônica sem voto impresso</segment>
+    <segment id="50" parent="53" relname="span"> para garantir ao eleitor o direito de conferir o destino do seu voto.</segment>
+    <segment id="51" parent="45" relname="span"> Em 2011, a Argentina iniciou a implantação de equipamentos eletrônicos de 3ª geração,</segment>
+    <segment id="27" parent="51" relname="elaboration"> com registros simultâneos de voto impresso e digital.</segment>
+<group id="4" type="span" parent="15" relname="span" />
+<group id="31" type="span" parent="15" relname="interpretation" />
+<group id="8" type="multinuc" parent="36" relname="span" />
+<group id="36" type="span" parent="29" relname="elaboration" />
+<group id="3" type="span" parent="5" relname="contrast" />
+<group id="40" type="span" parent="52" relname="same-unit" />
+<group id="5" type="multinuc" parent="32" relname="elaboration" />
+<group id="52" type="multinuc" parent="47" relname="span" />
+<group id="47" type="span" parent="33" relname="elaboration" />
+<group id="20" type="span" parent="34" relname="circumstance" />
+<group id="45" type="span" />
+<group id="45" type="span" />
+<group id="53" type="span" />
+<group id="46" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="35" relname="elaboration" />
+<group id="15" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="37" relname="span" />
+<group id="37" type="span" />
+  </body>
+</rst>
