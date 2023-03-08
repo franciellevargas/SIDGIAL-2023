@@ -1,0 +1,78 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="5" relname="span">Piauiense é a primeira negra diplomata no Itamaraty.</segment>
+    <segment id="3" parent="12" relname="sequence"> Luana Alessandra Roeder, 28 anos, foi abandonada ao nascer na Maternidade Dona Evangelina Rosa, em Teresina,</segment>
+    <segment id="7" parent="12" relname="sequence"> e posteriormente foi levada para o Orfanato João Maria de Deus.</segment>
+    <segment id="8" parent="12" relname="sequence">Ainda bebê, a agrônoma alemã Reinhild Roeder adotou Luana</segment>
+    <segment id="10" parent="12" relname="sequence"> e a criou entre a praia de Barra Grande, litoral do Piauí, e em Brasília, onde Luana mora atualmente.</segment>
+    <segment id="14" parent="31" relname="span">Logo no início da adoção, Reinhild notou</segment>
+    <segment id="15" parent="14" relname="elaboration"> que a garotinha era dotada de uma inteligência excepcional.</segment>
+    <segment id="16" parent="28" relname="span"> Ainda no ensino médio, Luana decidiu</segment>
+    <segment id="17" parent="27" relname="sequence"> que queria seguir a carreira diplomática</segment>
+    <segment id="26" parent="27" relname="sequence"> e cursou Relações Exteriores na Universidade de Brasília - UnB.</segment>
+    <segment id="18" parent="19" relname="span"> No dia 15 de janeiro, Luana tomou posse no Itamaraty,</segment>
+    <segment id="29" parent="18" relname="volitional-result"> após aprovação no concurso público do Instituto Rio Branco.</segment>
+    <segment id="20" parent="19" relname="elaboration"> Luana é a primeira mulher piauiense - e negra - a conquistar tal façanha.</segment>
+<group id="19" type="span" parent="32" relname="span" />
+<group id="12" type="multinuc" parent="1" relname="elaboration" />
+<group id="27" type="multinuc" parent="16" relname="elaboration" />
+<group id="28" type="span" parent="2" relname="elaboration" />
+<group id="28" type="span" parent="2" relname="elaboration" />
+<group id="32" type="span" parent="4" relname="elaboration" />
+<group id="5" type="span" parent="2" relname="span" />
+<group id="31" type="span" parent="5" relname="elaboration" />
+<group id="2" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="6" relname="span" />
+<group id="6" type="span" />
+  </body>
+</rst>
