@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="purpose">Empresários de Cuiabá vão fretar avião</segment>
+    <segment id="2" parent="26" relname="span"> para tomar Sputnik V em Cuba;</segment>
+    <segment id="20" parent="4" relname="span"> R$ 30 mil por cabeça.</segment>
+    <segment id="3" parent="23" relname="interpretation"> O desespero em busca do imunizante contra a Covid-19</segment>
+    <segment id="23" parent="24" relname="span"> levou um grupo formado por empresários, profissionais liberais e autônomos da Capital a planejar provável viagem a Cuba, orçada em R$ 3,6 milhões. </segment>
+    <segment id="5" parent="8" relname="span">Ao todo, devem embarcar rumo a ilha dos Castros, 120 pessoas, devidamente testadas</segment>
+    <segment id="9" parent="5" relname="parenthetical"> (exames de PCR),</segment>
+    <segment id="10" parent="8" relname="elaboration"> e com mais de 18 anos, aptas a tomar a vacina russa, Sputnik V.</segment>
+    <segment id="11" parent="7" relname="elaboration">  Cada passageiro vai desembolsar R$ 30 mil.</segment>
+    <segment id="12" parent="41" relname="span"> Do valor total arrecadado, R$ 2 milhões vão custear o fretamento da companhia aérea</segment>
+    <segment id="37" parent="17" relname="span"> e outro R$ 1 milhão será doado ao governo cubano,</segment>
+    <segment id="14" parent="37" relname="elaboration"> responsável pela disponibilidade e aplicação das vacinas.</segment>
+    <segment id="15" parent="38" relname="purpose"> A menor parte, R$ 600 mil, será usada</segment>
+    <segment id="38" parent="39" relname="span"> para pagamento de hospedagens e alimentação do grupo, em Havana.</segment>
+    <segment id="16" parent="13" relname="evaluation"> É a completa desmoralização do governo, Jair Bolsonaro.</segment>
+<group id="26" type="span" parent="20" relname="preparation" />
+<group id="4" type="span" parent="42" relname="summary" />
+<group id="24" type="span" parent="40" relname="span" />
+<group id="8" type="span" parent="7" relname="span" />
+<group id="7" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="24" relname="elaboration" />
+<group id="18" type="multinuc" parent="40" relname="elaboration" />
+<group id="41" type="span" parent="18" relname="joint" />
+<group id="17" type="span" parent="18" relname="joint" />
+<group id="39" type="span" parent="18" relname="joint" />
+<group id="40" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" />
+  </body>
+</rst>
