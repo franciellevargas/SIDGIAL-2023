@@ -1,0 +1,148 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="5" relname="span">Trinta por cento dos vacinados morrerão dentro de três meses,</segment>
+    <segment id="3" parent="1" relname="attribution"> diz o Dr. Sherri Tempenny.</segment>
+    <segment id="2" parent="57" relname="attribution"> Este artigo confirma o que disse a professora Dolores Cahill, de Dublin,</segment>
+    <segment id="6" parent="7" relname="span"> que estima que pelo menos 30% dos vacinados morrerão em poucos meses de tempestade de citocinas</segment>
+    <segment id="8" parent="6" relname="parenthetical"> (algo como uma alergia a amendoim),</segment>
+    <segment id="9" parent="7" relname="nonvolitional-cause"> uma vez que o corpo tenha sintetizado proteína spike em grandes quantidades !</segment>
+    <segment id="10" parent="4" relname="elaboration"> A geneticista francesa Alexandra Henrion-Caude concorda com Dolores Cahill nesta análise e processo.</segment>
+    <segment id="13" parent="14" relname="span"> A Dra. Sherri Tempenny </segment>
+    <segment id="11" parent="13" relname="parenthetical">(imagem)</segment>
+    <segment id="61" parent="63" relname="same-unit"> explica</segment>
+    <segment id="64" parent="69" relname="span"> como as vacinas de mRNA começarão o processo de despovoamento nos próximos 3-6 meses</segment>
+    <segment id="16" parent="64" relname="parenthetical"> (julho de 2021).</segment>
+    <segment id="15" parent="55" relname="span"> Ela e outros cientistas previram que</segment>
+    <segment id="17" parent="12" relname="sequence"> milhões de pessoas poderiam morrer e</segment>
+    <segment id="18" parent="19" relname="purpose"> que suas mortes seriam atribuídas a uma nova cepa de COVID, </segment>
+    <segment id="19" parent="67" relname="span">para aumentar as vacinas.</segment>
+    <segment id="20" parent="21" relname="preparation"> Aqui estão alguns trechos mais significativos da entrevista:</segment>
+    <segment id="21" parent="73" relname="span"> “Nos Estados Unidos, nos primeiros 30 dias após o início da vacinação,</segment>
+    <segment id="22" parent="73" relname="elaboration"> eventos adversos ocorreram em mais de 40.000 pessoas até agora,</segment>
+    <segment id="23" parent="74" relname="elaboration"> incluindo cerca de 31.000 casos de choque anafilático,</segment>
+    <segment id="24" parent="77" relname="contrast"> cerca de 5.000 casos de reações neurológicas e outros problemas,</segment>
+    <segment id="25" parent="77" relname="contrast"> mas que é apenas o começo.</segment>
+    <segment id="56" parent="82" relname="span">Essas vacinas irão essencialmente criar um fenômeno chamado realce dependente de anticorpos</segment>
+    <segment id="27" parent="56" relname="parenthetical"> (ADE)</segment>
+    <segment id="28" parent="26" relname="span"> ou um aumento na dependência de anticorpos </segment>
+    <segment id="29" parent="83" relname="span">que permite que um “pedaço” de mRNA mensageiro se replique indefinidamente criando pedaços de proteína</segment>
+    <segment id="31" parent="29" relname="parenthetical"> (proteína de pico)</segment>
+    <segment id="30" parent="84" relname="same-unit"> dentro de nosso corpo. Corpo.</segment>
+    <segment id="32" parent="33" relname="conclusion"> Em resposta, ele produzirá anticorpos,</segment>
+    <segment id="33" parent="88" relname="span"> e é por isso que Bill Gates disse que</segment>
+    <segment id="34" parent="37" relname="conclusion"> nosso corpo se tornará um “produtor automático de vacinas endógenas” em resposta a essas proteínas “.</segment>
+    <segment id="36" parent="37" relname="span"> Por isso falamos de variantes inglesas e brasileiras,</segment>
+    <segment id="38" parent="36" relname="otherwise"> ao contrário, já presentes em nossos corpos devido às vacinações em massa.</segment>
+    <segment id="40" parent="93" relname="span"> O exemplo da Umbria,</segment>
+    <segment id="41" parent="40" relname="elaboration"> que ocupa a primeira posição em termos de número de vacinações, oferece motivos para reflexão:</segment>
+    <segment id="91" parent="95" relname="span"> é nesta região que se explode Covid com todas as suas variantes.</segment>
+    <segment id="44" parent="105" relname="attribution"> O cavalo de Troia, como diz o Dr. Tempenny,</segment>
+    <segment id="45" parent="105" relname="joint"> é de fato injetado em nós por meio da vacina de mRNA,</segment>
+    <segment id="47" parent="104" relname="span"> e existem vários mecanismos pelos quais essas substâncias criarão esse caos em nós,</segment>
+    <segment id="48" parent="101" relname="sequence"> a saber, os anticorpos que destruirão nossos pulmões</segment>
+    <segment id="99" parent="101" relname="sequence"> e desativarão os antimacrófagos inflamatórios</segment>
+    <segment id="100" parent="101" relname="sequence"> e transportar o vírus para a célula, permitindo que ele se replique</segment>
+    <segment id="102" parent="103" relname="span"> e causando a morte de muitas pessoas dentro de um ano da vacinação:</segment>
+    <segment id="49" parent="111" relname="contrast"> não apenas por choque anafilático ou doenças cardiovasculares, </segment>
+    <segment id="51" parent="112" relname="span">mas também por doenças autoimunes,</segment>
+    <segment id="108" parent="51" relname="justify"> uma vez que os anticorpos da proteína Spike começarão a atacar e quebrar os glóbulos vermelhos.</segment>
+    <segment id="52" parent="35" relname="circumstance"> Quando as pessoas começam a morrer,</segment>
+    <segment id="53" parent="35" relname="sequence"> os médicos recomendam doses adicionais, </segment>
+    <segment id="54" parent="35" relname="sequence">e a injeção de reforço agravará a situação.</segment>
+<group id="73" type="span" parent="74" relname="span" />
+<group id="74" type="span" parent="75" relname="span" />
+<group id="75" type="span" parent="76" relname="span" />
+<group id="76" type="span" parent="62" relname="span" />
+<group id="77" type="multinuc" parent="78" relname="span" />
+<group id="78" type="span" parent="75" relname="elaboration" />
+<group id="83" type="span" parent="84" relname="same-unit" />
+<group id="84" type="multinuc" parent="28" relname="elaboration" />
+<group id="93" type="span" parent="91" relname="preparation" />
+<group id="7" type="span" parent="57" relname="span" />
+<group id="57" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="70" relname="span" />
+<group id="5" type="span" parent="71" relname="summary" />
+<group id="14" type="span" parent="63" relname="same-unit" />
+<group id="63" type="multinuc" parent="69" relname="attribution" />
+<group id="67" type="span" parent="12" relname="sequence" />
+<group id="67" type="span" parent="12" relname="sequence" />
+<group id="12" type="multinuc" parent="15" relname="elaboration" />
+<group id="55" type="span" parent="65" relname="span" />
+<group id="82" type="span" parent="58" relname="disjunction" />
+<group id="26" type="span" parent="58" relname="disjunction" />
+<group id="58" type="multinuc" parent="59" relname="span" />
+<group id="37" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="87" relname="span" />
+<group id="88" type="span" parent="39" relname="attribution" />
+<group id="87" type="span" parent="50" relname="span" />
+<group id="95" type="span" parent="87" relname="elaboration" />
+<group id="101" type="multinuc" parent="47" relname="justify" />
+<group id="104" type="span" parent="105" relname="joint" />
+<group id="105" type="multinuc" parent="46" relname="span" />
+<group id="46" type="span" parent="42" relname="volitional-cause" />
+<group id="112" type="span" parent="111" relname="contrast" />
+<group id="111" type="multinuc" parent="102" relname="elaboration" />
+<group id="103" type="span" parent="101" relname="sequence" />
+<group id="35" type="multinuc" parent="42" relname="span" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="50" relname="elaboration" />
+<group id="50" type="span" parent="60" relname="span" />
+<group id="59" type="span" parent="76" relname="elaboration" />
+<group id="60" type="span" parent="58" relname="nonvolitional-result" />
+<group id="62" type="span" parent="55" relname="elaboration" />
+<group id="65" type="span" parent="66" relname="elaboration" />
+<group id="69" type="span" parent="66" relname="span" />
+<group id="66" type="span" parent="68" relname="span" />
+<group id="68" type="span" parent="70" relname="elaboration" />
+<group id="70" type="span" parent="71" relname="span" />
+<group id="71" type="span" parent="72" relname="span" />
+<group id="72" type="span" />
+  </body>
+</rst>
