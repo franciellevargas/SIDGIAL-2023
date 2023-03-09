@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="span">Delação da OAS tem um capítulo exclusivo chamado &quot;BRAHMA&quot;</segment>
+    <segment id="2" parent="1" relname="evaluation"> e vai fazer Lula descer do pedestal.</segment>
+    <segment id="3" parent="24" relname="attribution">  A revista IstoÉ informou que</segment>
+    <segment id="4" parent="21" relname="span"> a delação do presidente da empreiteira OAS </segment>
+    <segment id="6" parent="4" relname="parenthetical">(Léo Pinheiro)</segment>
+    <segment id="5" parent="23" relname="span"> aborda um capítulo exclusivo de codinome &quot;capítulo Brahma&quot;, </segment>
+    <segment id="7" parent="22" relname="span"> com nove temas de interesse do empreiteiro</segment>
+    <segment id="8" parent="7" relname="elaboration"> que teriam sido abordados com Lula.</segment>
+    <segment id="9" parent="29" relname="span"> &quot;São citados numa mensagem encontrada pela PF o</segment>
+    <segment id="27" parent="28" relname="list"> &quot;Programa Peru x Apoio Empresarial Peruano e Empresas Brasileiras&quot;, </segment>
+    <segment id="10" parent="28" relname="list"> o &quot;Apoio Mundo-África&quot;</segment>
+    <segment id="11" parent="28" relname="list"> e a &quot;Proposta Mundo-Bolívia&quot;.&quot;</segment>
+    <segment id="12" parent="31" relname="attribution"> Débora Bergamasco e Sérgio Pardellas contam ainda que</segment>
+    <segment id="30" parent="31" relname="span"> Lula viveu uma relação de amizade simbiótica com Léo Pinheiro</segment>
+    <segment id="14" parent="30" relname="circumstance"> desde os tempos do sindicalismo.</segment>
+    <segment id="13" parent="35" relname="span"> O desenrolar das negociações</segment>
+    <segment id="15" parent="13" relname="parenthetical"> (que estão fluindo como mel)</segment>
+    <segment id="16" parent="39" relname="span"> fará a &quot;alma mais honesta do país&quot; descer do pedestal ético erguido</segment>
+    <segment id="36" parent="16" relname="background"> por ele próprio com a contribuição dos seus fiéis seguidores.</segment>
+    <segment id="17" parent="38" relname="span"> Léo Pinheiro vai provar que</segment>
+    <segment id="18" parent="17" relname="elaboration"> Lula se beneficiou pessoalmente dos esquemas que fraudaram a Petrobras.</segment>
+<group id="20" type="span" parent="26" relname="span" />
+<group id="21" type="span" parent="24" relname="same-unit" />
+<group id="22" type="span" parent="5" relname="elaboration" />
+<group id="23" type="span" parent="24" relname="same-unit" />
+<group id="24" type="multinuc" parent="25" relname="span" />
+<group id="25" type="span" parent="20" relname="elaboration" />
+<group id="26" type="span" parent="41" relname="span" />
+<group id="28" type="multinuc" parent="9" relname="elaboration" />
+<group id="29" type="span" parent="37" relname="span" />
+<group id="35" type="span" parent="40" relname="span" />
+<group id="39" type="span" parent="35" relname="nonvolitional-result" />
+<group id="40" type="span" parent="42" relname="elaboration" />
+<group id="41" type="span" />
+<group id="31" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="19" relname="span" />
+<group id="38" type="span" parent="32" relname="elaboration" />
+<group id="19" type="span" parent="29" relname="elaboration" />
+<group id="37" type="span" parent="26" relname="elaboration" />
+  </body>
+</rst>
