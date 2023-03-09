@@ -1,0 +1,102 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="29" relname="preparation">Pátria Educadora?</segment>
+    <segment id="2" parent="28" relname="span"> Mais de 53 mil candidatos tiraram ZERO na redação do ENEM.</segment>
+    <segment id="3" parent="2" relname="evaluation">  O desempenho dos candidatos não foi nada bom.</segment>
+    <segment id="4" parent="5" relname="purpose"> São essas notas que servem como referência</segment>
+    <segment id="5" parent="27" relname="span"> para garantir uma vaga nas universidades públicas.</segment>
+    <segment id="6" parent="31" relname="span">  Mais de 53 mil candidatos que realizaram o Enem </segment>
+    <segment id="7" parent="6" relname="parenthetical">(Exame Nacional do Ensino Médio)</segment>
+    <segment id="8" parent="32" relname="same-unit"> 2015 zeraram a nota da redação.</segment>
+    <segment id="9" parent="38" relname="preparation"> A nota da redação é zerada quando:</segment>
+    <segment id="10" parent="38" relname="same-unit"> o texto possui</segment>
+    <segment id="35" parent="34" relname="list"> desenhos ou informações desconexas;</segment>
+    <segment id="11" parent="34" relname="list"> o candidato deixa a prova em branco</segment>
+    <segment id="12" parent="34" relname="list"> ou escreve menos de sete linhas;</segment>
+    <segment id="13" parent="34" relname="list"> o participante desrespeita os Direitos Humanos;</segment>
+    <segment id="14" parent="34" relname="list"> ou não segue o tipo de texto exigido  dissertativo-argumentativo.</segment>
+    <segment id="15" parent="41" relname="span"> Sobre a polêmica do tema &quot;violência contra a mulher&quot; nas redes sociais,</segment>
+    <segment id="16" parent="17" relname="attribution">  Mercadante afirma que</segment>
+    <segment id="17" parent="40" relname="span"> houve uma tentativa de crítica ideológica.</segment>
+    <segment id="18" parent="39" relname="span"> &quot;Isso é um fato. O Brasil é o quinto país do mundo onde há mais violência contra a mulher&quot;, </segment>
+    <segment id="19" parent="18" relname="attribution"> diz.</segment>
+    <segment id="20" parent="47" relname="attribution"> O MEC confirmou que</segment>
+    <segment id="21" parent="44" relname="joint"> apenas 13 estudantes em todo o país tiraram nota máxima em matemática </segment>
+    <segment id="22" parent="44" relname="joint">E olha que o MEC não considerou aí quem deixou a redação em branco.</segment>
+    <segment id="23" parent="45" relname="span"> Só entrou no cálculo quem efetivamente escreveu um texto</segment>
+    <segment id="24" parent="23" relname="evaluation"> e escreveu muito mal.</segment>
+    <segment id="25" parent="46" relname="evaluation"> O desafio agora de quem,  ao contrário,  mandou bem é fazer a inscrição no Sisu,  o Sistema de Seleção Unificada.</segment>
+<group id="27" type="span" parent="28" relname="background" />
+<group id="28" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="33" relname="span" />
+<group id="31" type="span" parent="32" relname="same-unit" />
+<group id="32" type="multinuc" parent="30" relname="summary" />
+<group id="33" type="span" parent="48" relname="span" />
+<group id="34" type="multinuc" parent="38" relname="same-unit" />
+<group id="39" type="span" parent="41" relname="elaboration" />
+<group id="40" type="span" parent="15" relname="interpretation" />
+<group id="41" type="span" parent="42" relname="span" />
+<group id="44" type="multinuc" parent="47" relname="span" />
+<group id="45" type="span" parent="44" relname="elaboration" />
+<group id="47" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="42" relname="elaboration" />
+<group id="42" type="span" parent="37" relname="span" />
+<group id="38" type="multinuc" parent="36" relname="span" />
+<group id="36" type="span" parent="43" relname="span" />
+<group id="36" type="span" parent="43" relname="span" />
+<group id="37" type="span" parent="36" relname="elaboration" />
+<group id="43" type="span" parent="33" relname="elaboration" />
+<group id="48" type="span" />
+  </body>
+</rst>
