@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="39" relname="attribution">PT diz que</segment>
+    <segment id="2" parent="39" relname="sequence"> Lula não tem dinheiro para sobreviver</segment>
+    <segment id="4" parent="39" relname="sequence"> e chama Moro de &quot;mentiroso,mesquinho e conspirador&quot;. </segment>
+    <segment id="5" parent="40" relname="background"> O Partido dos Trabalhadores soltou uma nota de repúdio à decisão do juiz Sérgio Moro. </segment>
+    <segment id="9" parent="41" relname="span"> Sobre o bloqueio dos patrimônios do ex-presidente</segment>
+    <segment id="10" parent="9" relname="parenthetical"> (R$ 606 mil),</segment>
+    <segment id="11" parent="42" relname="same-unit"> o partido alega que</segment>
+    <segment id="12" parent="37" relname="span"> Lula está pobre e não tem mais dinheiro para o &quot;básico&quot;.</segment>
+    <segment id="15" parent="43" relname="sequence"> Depois de condenar o ex-presidente Lula sem provas,</segment>
+    <segment id="17" parent="43" relname="sequence"> propagar mentiras e contradizer sua própria sentença,</segment>
+    <segment id="19" parent="43" relname="sequence"> o juiz Sergio Moro decidiu agora vingar-se de um inocente .</segment>
+    <segment id="20" parent="44" relname="volitional-cause"> Ao bloquear os bens de Lula,</segment>
+    <segment id="21" parent="44" relname="span"> Moro decretou uma pena de asfixia econômica</segment>
+    <segment id="24" parent="22" relname="joint"> que priva o ex-presidente de sua casa, dos meios para subsistir</segment>
+    <segment id="25" parent="22" relname="joint"> e até para se defender das falsas acusações.</segment>
+    <segment id="26" parent="56" relname="interpretation"> Foi uma decisão mesquinha ,</segment>
+    <segment id="27" parent="56" relname="sequence"> tramada em segredo ao longo de 9 meses com a Força Tarefa de Curitiba,</segment>
+    <segment id="28" parent="56" relname="sequence"> e concluída após a forte reação da sociedade e do mundo jurídico à sentença injusta no caso do tríplex.</segment>
+    <segment id="30" parent="32" relname="purpose"> É um caso típico de retaliação, de quem se vale da cumplicidade com a Rede Globo</segment>
+    <segment id="32" parent="55" relname="span"> para cometer todo tipo de arbitrariedades contra o maior líder popular do País.</segment>
+<group id="43" type="multinuc" parent="54" relname="elaboration" />
+<group id="39" type="multinuc" parent="40" relname="span" />
+<group id="40" type="span" parent="48" relname="span" />
+<group id="41" type="span" parent="42" relname="same-unit" />
+<group id="42" type="multinuc" parent="12" relname="attribution" />
+<group id="37" type="span" parent="48" relname="elaboration" />
+<group id="22" type="multinuc" parent="21" relname="elaboration" />
+<group id="44" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="50" relname="elaboration" />
+<group id="56" type="multinuc" parent="29" relname="span" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="55" type="span" parent="29" relname="elaboration" />
+<group id="31" type="span" parent="51" relname="evaluation" />
+<group id="48" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="51" relname="span" />
+<group id="51" type="span" parent="52" relname="span" />
+<group id="52" type="span" />
+  </body>
+</rst>
