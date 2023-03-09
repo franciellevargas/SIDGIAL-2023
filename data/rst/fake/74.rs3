@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Cãodidato vencedor: </segment>
+    <segment id="2" parent="22" relname="span">Presidente da Argentina publica foto com mascote na cadeira da presidência.</segment>
+    <segment id="3" parent="17" relname="span">  O recém eleito presidente da Argentina,  Mauricio Macri,  publicou ontem </segment>
+    <segment id="7" parent="3" relname="parenthetical">(17)</segment>
+    <segment id="6" parent="35" relname="same-unit"> em sua conta oficial no Facebook uma foto de seu cachorro,  Balcarce,</segment>
+    <segment id="9" parent="35" relname="circumstance">  sentado na cadeira presidencial na Casa Rosada,  sede da presidência argentina.</segment>
+    <segment id="11" parent="32" relname="sequence"> O cachorro foi adotado no ano passado pelo presidente</segment>
+    <segment id="13" parent="32" relname="sequence"> e o acompanhou durante grande parte da campanha presidencial.</segment>
+    <segment id="14" parent="15" relname="attribution"> Segundo Macri,</segment>
+    <segment id="15" parent="34" relname="span">  Balcarce se tornou um símbolo do respeito que seu partido tem pelos animais.</segment>
+    <segment id="16" parent="39" relname="span"> Ainda de acordo com o novo presidente argentino,  o animal se tornou o primeiro cachorro da história do país a sentar na cadeira da presidência. &quot;Estamos muito orgulhosos dele&quot;,</segment>
+    <segment id="19" parent="16" relname="attribution">  afirmou.</segment>
+    <segment id="20" parent="21" relname="preparation"> E se a moda pegar? </segment>
+    <segment id="21" parent="37" relname="span">Que animal de estimação teremos na cadeira presidencial do Brasil?</segment>
+<group id="22" type="span" parent="18" relname="summary" />
+<group id="32" type="multinuc" parent="36" relname="elaboration" />
+<group id="34" type="span" parent="40" relname="span" />
+<group id="17" type="span" parent="35" relname="same-unit" />
+<group id="35" type="multinuc" parent="18" relname="span" />
+<group id="18" type="span" parent="36" relname="span" />
+<group id="39" type="span" parent="34" relname="elaboration" />
+<group id="40" type="span" parent="38" relname="elaboration" />
+<group id="37" type="span" parent="31" relname="evaluation" />
+<group id="36" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="12" relname="span" />
+<group id="12" type="span" />
+  </body>
+</rst>
