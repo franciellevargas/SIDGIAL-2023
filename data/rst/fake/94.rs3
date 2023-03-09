@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="27" relname="attribution">Lula:</segment>
+    <segment id="2" parent="27" relname="span"> &quot;Você não sabe o que esse moleque sofreu</segment>
+    <segment id="31" parent="2" relname="justify"> por ser dono da Friboi&quot;.</segment>
+    <segment id="3" parent="24" relname="interpretation">  Bem, antes de mais nada gostaríamos de dizer que o vídeo abaixo é comovente [...]</segment>
+    <segment id="6" parent="57" relname="disjunction"> se você tem problemas cardíacos </segment>
+    <segment id="5" parent="57" relname="disjunction">ou tendência à depressão,</segment>
+    <segment id="37" parent="24" relname="span"> por favor, não assista!</segment>
+    <segment id="7" parent="39" relname="span"> Em um depoimento comovente feito ontem </segment>
+    <segment id="9" parent="7" relname="parenthetical">(20),</segment>
+    <segment id="8" parent="34" relname="same-unit"> Lula faz um apelo ao juiz Sérgio Moro:</segment>
+    <segment id="10" parent="49" relname="span"> &quot;Então eles</segment>
+    <segment id="11" parent="10" relname="parenthetical"> (a PF e o MPF)</segment>
+    <segment id="12" parent="46" relname="span"> apresentam uma desgraça de um power-point em que eles criam uma fantasia [...] </segment>
+    <segment id="14" parent="44" relname="sequence">e na fantasia deles eu sou o chefe </segment>
+    <segment id="71" parent="44" relname="sequence">e escolhi todo mundo pra roubar&quot;</segment>
+    <segment id="15" parent="32" relname="evaluation"> E agora a parte triste:</segment>
+    <segment id="16" parent="64" relname="span"> &quot;Eu peço ao Moro </segment>
+    <segment id="17" parent="16" relname="parenthetical">(se ele estiver me ouvindo),</segment>
+    <segment id="18" parent="13" relname="span"> ao grupo de procuradores da Lava-Jato e à PF </segment>
+    <segment id="52" parent="18" relname="elaboration">que apresentem uma prova, nem que for um pedaço de papel higiênico assinado.</segment>
+    <segment id="21" parent="22" relname="interjection"> Pelo amor de Deus,</segment>
+    <segment id="22" parent="62" relname="span"> porque assim vocês me ajudam.&quot;</segment>
+    <segment id="23" parent="30" relname="span"> &quot;A internet passou 6 anos falando que meu filho era dono da Friboi.</segment>
+    <segment id="25" parent="20" relname="span"> Você não sabe o que esse moleque sofreu </segment>
+    <segment id="58" parent="25" relname="justify">por ser dono da Friboi&quot;</segment>
+    <segment id="26" parent="65" relname="purpose"> abaixo o vídeo original e sem cortes</segment>
+    <segment id="28" parent="65" relname="span"> para não haver dúvidas sobre a fala do ex-presidente </segment>
+    <segment id="29" parent="28" relname="parenthetical">( minuto 57:40 ):</segment>
+<group id="27" type="span" parent="4" relname="span" />
+<group id="57" type="multinuc" parent="37" relname="condition" />
+<group id="24" type="span" parent="59" relname="span" />
+<group id="49" type="span" parent="70" relname="same-unit" />
+<group id="70" type="multinuc" parent="35" relname="span" />
+<group id="70" type="multinuc" parent="35" relname="span" />
+<group id="44" type="multinuc" parent="12" relname="background" />
+<group id="46" type="span" parent="70" relname="same-unit" />
+<group id="59" type="span" parent="38" relname="span" />
+<group id="65" type="span" parent="63" relname="span" />
+<group id="63" type="span" parent="38" relname="imperative" />
+<group id="63" type="span" parent="38" relname="imperative" />
+<group id="62" type="span" parent="61" relname="motivation" />
+<group id="62" type="span" parent="61" relname="motivation" />
+<group id="64" type="span" parent="61" relname="same-unit" />
+<group id="61" type="multinuc" parent="19" relname="span" />
+<group id="13" type="span" parent="61" relname="same-unit" />
+<group id="19" type="span" parent="32" relname="span" />
+<group id="20" type="span" parent="23" relname="elaboration" />
+<group id="30" type="span" parent="19" relname="elaboration" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="70" relname="elaboration" />
+<group id="39" type="span" parent="34" relname="same-unit" />
+<group id="34" type="multinuc" parent="35" relname="attribution" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="59" relname="elaboration" />
+<group id="4" type="span" parent="41" relname="span" />
+<group id="38" type="span" parent="40" relname="span" />
+<group id="40" type="span" parent="4" relname="elaboration" />
+<group id="41" type="span" />
+  </body>
+</rst>
