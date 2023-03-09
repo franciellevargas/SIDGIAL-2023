@@ -1,0 +1,96 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="preparation">Dilma e o ponto eletrônico.</segment>
+    <segment id="2" parent="4" relname="purpose"> Ex-presidenta irá ao senado</segment>
+    <segment id="4" parent="31" relname="span"> para fazer sua defesa.</segment>
+    <segment id="5" parent="32" relname="span">  Dilma Rousseff irá ao Senado</segment>
+    <segment id="6" parent="5" relname="parenthetical"> (no próximo dia 29)</segment>
+    <segment id="7" parent="33" relname="span"> para fazer sua própria defesa.</segment>
+    <segment id="8" parent="9" relname="sequence">  A confirmação foi publicada pela &quot;Folha de S. Paulo&quot;</segment>
+    <segment id="10" parent="9" relname="sequence"> e confirmada pelo jornal O GLOBO.</segment>
+    <segment id="11" parent="36" relname="attribution"> A presidente afastada disse que</segment>
+    <segment id="12" parent="36" relname="joint"> não está preocupada com interrupções</segment>
+    <segment id="13" parent="36" relname="joint"> e até mesmo questionamentos agressivos da oposição.</segment>
+    <segment id="14" parent="15" relname="span"> Ela vai falar durante 30 minutos.</segment>
+    <segment id="16" parent="14" relname="interjection"> Ninguém merece!</segment>
+    <segment id="17" parent="19" relname="circumstance"> Em situações normais e sem estresse, </segment>
+    <segment id="19" parent="20" relname="span"> Dilma já é uma lástima quando tenta se comunicar.</segment>
+    <segment id="21" parent="43" relname="span"> Durante 6 anos o país assistiu vários discursos de Dilma</segment>
+    <segment id="22" parent="21" relname="nonvolitional-cause"> e o resultado foi uma tragédia verbal.</segment>
+    <segment id="23" parent="25" relname="joint"> Ela não tem organização de idéias</segment>
+    <segment id="26" parent="25" relname="joint"> e sua fala é desconexa,  incompreensível e sem lógica.</segment>
+    <segment id="27" parent="24" relname="span"> Sabemos que o marqueteiro João Santana já deixou a cadeia em Curitiba</segment>
+    <segment id="28" parent="29" relname="preparation"> e a dúvida que paira no ar é:</segment>
+    <segment id="29" parent="50" relname="span"> Será que ela vai usar um ponto eletrônico?</segment>
+<group id="31" type="span" parent="34" relname="span" />
+<group id="32" type="span" parent="7" relname="purpose" />
+<group id="33" type="span" parent="31" relname="restatement" />
+<group id="34" type="span" parent="30" relname="span" />
+<group id="9" type="multinuc" parent="34" relname="evidence" />
+<group id="36" type="multinuc" parent="37" relname="span" />
+<group id="50" type="span" parent="27" relname="elaboration" />
+<group id="30" type="span" parent="3" relname="span" />
+<group id="3" type="span" parent="49" relname="span" />
+<group id="37" type="span" parent="40" relname="span" />
+<group id="15" type="span" parent="37" relname="elaboration" />
+<group id="40" type="span" parent="18" relname="span" />
+<group id="20" type="span" parent="40" relname="elaboration" />
+<group id="18" type="span" parent="47" relname="span" />
+<group id="25" type="multinuc" parent="43" relname="elaboration" />
+<group id="49" type="span" parent="38" relname="span" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="35" relname="span" />
+<group id="24" type="span" parent="44" relname="elaboration" />
+<group id="35" type="span" parent="18" relname="elaboration" />
+<group id="47" type="span" parent="49" relname="elaboration" />
+<group id="38" type="span" />
+  </body>
+</rst>
