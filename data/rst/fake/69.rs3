@@ -1,0 +1,88 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">FUGIU?</segment>
+    <segment id="2" parent="36" relname="span"> Filho de Lula foi para os EUA.</segment>
+    <segment id="3" parent="4" relname="purpose"> PF teve que arrombar a porta do &quot;apê&quot; de luxo</segment>
+    <segment id="4" parent="32" relname="span"> para cumprir mandado.</segment>
+    <segment id="6" parent="13" relname="span">  Para cumprir um mandado de busca e apreensão</segment>
+    <segment id="8" parent="7" relname="span"> na casa de Luis Claudio Lula da Silva ,</segment>
+    <segment id="9" parent="8" relname="elaboration">  filho prodígio do ex-presidente Lula,</segment>
+    <segment id="10" parent="13" relname="purpose">  a PF precisou pular o muro e arrombar a porta do apartamento de luxo no bairro Jardins,  em SP.</segment>
+    <segment id="14" parent="16" relname="span">  A PF chegou às 5h50 no prédio onde o empresário,</segment>
+    <segment id="15" parent="14" relname="elaboration">  citado na Operação Zelotes,  mora com a esposa.</segment>
+    <segment id="17" parent="48" relname="span"> Os porteiros não deixaram a polícia entrar</segment>
+    <segment id="18" parent="17" relname="justify"> porque não havia ninguém em casa.</segment>
+    <segment id="19" parent="21" relname="sequence"> A equipe então decidiu pular o portão e entrar no prédio.</segment>
+    <segment id="22" parent="21" relname="sequence"> Logo após arrombaram a porta do apartamento</segment>
+    <segment id="23" parent="21" relname="sequence"> e só permaneceram no local até às 9h da manhã.</segment>
+    <segment id="24" parent="25" relname="attribution"> Os porteiros disseram à PF</segment>
+    <segment id="25" parent="20" relname="span"> que Luis Claudio estava em Nova York.</segment>
+    <segment id="26" parent="29" relname="span"> Há alguns meses,  Luis Cláudio instalou câmeras de segurança nos cômodos do apartamento.</segment>
+    <segment id="27" parent="26" relname="volitional-cause"> As instalações foram feitas após ele ser citado na Operação Zelotes.</segment>
+    <segment id="28" parent="29" relname="elaboration"> O imóvel onde Luis Cláudio mora é &quot;emprestado&quot; do advogado Roberto Teixeira,  que defende Lula.</segment>
+    <segment id="30"></segment>
+<group id="32" type="span" parent="36" relname="elaboration" />
+<group id="7" type="span" parent="6" relname="circumstance" />
+<group id="36" type="span" parent="12" relname="span" />
+<group id="13" type="span" parent="5" relname="span" />
+<group id="5" type="span" parent="46" relname="span" />
+<group id="48" type="span" parent="21" relname="nonvolitional-result" />
+<group id="16" type="span" parent="5" relname="elaboration" />
+<group id="21" type="multinuc" parent="50" relname="span" />
+<group id="20" type="span" parent="50" relname="elaboration" />
+<group id="29" type="span" parent="49" relname="span" />
+<group id="49" type="span" parent="56" relname="elaboration" />
+<group id="50" type="span" parent="56" relname="span" />
+<group id="56" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="46" relname="elaboration" />
+<group id="46" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="12" relname="elaboration" />
+<group id="12" type="span" parent="31" relname="span" />
+<group id="31" type="span" />
+  </body>
+</rst>
