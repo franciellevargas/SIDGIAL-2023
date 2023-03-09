@@ -1,0 +1,85 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="35" relname="span">Consultoria internacional elege Temer</segment>
+    <segment id="34" parent="1" relname="comparison"> como o presidente mais impopular do planeta. </segment>
+    <segment id="3" parent="36" relname="evaluation"> Temer é o cara!</segment>
+    <segment id="4" parent="36" relname="span"> Ele conseguiu uma façanha mundial</segment>
+    <segment id="2" parent="4" relname="nonvolitional-cause"> ao superar Dilma Rousseff no quesito impopularidade. </segment>
+    <segment id="5" parent="39" relname="span"> O peemedebista foi considerado o presidente com a maior taxa de rejeição do planeta,</segment>
+    <segment id="6" parent="38" relname="span"> perdendo até para o presidente da Venezuela,</segment>
+    <segment id="7" parent="6" relname="elaboration"> Nicolás Maduro.</segment>
+    <segment id="8" parent="44" relname="span"> A pesquisa, que foi executada pelo Grupo Eurasia, </segment>
+    <segment id="15" parent="8" relname="elaboration">coletou dados durante os meses de agosto e setembro deste ano.</segment>
+    <segment id="12" parent="14" relname="evaluation"> Michel, o homem que prometeu estancar a sangria,</segment>
+    <segment id="14" parent="45" relname="span"> consegiu míseros 3% de aprovação popular, a menor taxa do mundo, seguido por:</segment>
+    <segment id="18" parent="48" relname="span"> Jacob Zuma,África do Sul,</segment>
+    <segment id="16" parent="18" relname="parenthetical"> (corrupto)</segment>
+    <segment id="17" parent="49" relname="same-unit"> 18% de apoio popular.</segment>
+    <segment id="19" parent="49" relname="elaboration"> Nicolás Maduro, Tirano da Venezula, 23%; Enrique Penã Nieto, México, 28%; Theresa May, primeira-ministra do Reino Unido,31%; Donald Trump,EUA, 37%; Emmanuel Macron,  França, 45%.</segment>
+<group id="35" type="span" parent="60" relname="span" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="35" relname="elaboration" />
+<group id="38" type="span" parent="5" relname="comparison" />
+<group id="39" type="span" parent="60" relname="elaboration" />
+<group id="60" type="span" parent="61" relname="span" />
+<group id="61" type="span" parent="62" relname="span" />
+<group id="44" type="span" parent="46" relname="span" />
+<group id="45" type="span" parent="47" relname="span" />
+<group id="48" type="span" parent="49" relname="same-unit" />
+<group id="49" type="multinuc" parent="58" relname="span" />
+<group id="58" type="span" parent="45" relname="elaboration" />
+<group id="47" type="span" parent="44" relname="elaboration" />
+<group id="46" type="span" parent="61" relname="elaboration" />
+<group id="62" type="span" />
+  </body>
+</rst>
