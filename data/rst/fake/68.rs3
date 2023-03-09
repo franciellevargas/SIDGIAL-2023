@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="volitional-cause">Ex-presidente da Transpetro negocia delação premiada</segment>
+    <segment id="2" parent="23" relname="span"> e pode implodir a cúpula do PMDB.</segment>
+    <segment id="3" parent="25" relname="span">  A divulgação de uma conversa em que Romero Jucá </segment>
+    <segment id="4" parent="3" relname="parenthetical">[ministro do Planejamento]</segment>
+    <segment id="5" parent="24" relname="same-unit"> diz </segment>
+    <segment id="6" parent="7" relname="span">que o governo Michel Temer agiria para conter a Operação Lava-Jato é parte de um acordo de delação.</segment>
+    <segment id="8" parent="28" relname="span">  O ex-presidente da Transpetro</segment>
+    <segment id="9" parent="8" relname="parenthetical"> [Sérgio Machado]</segment>
+    <segment id="10" parent="29" relname="same-unit"> está negociando com o MPF e sua colaboração poderá &quot;arrebentar&quot; literalmente com a cúpula do PMDB do Senado.</segment>
+    <segment id="14" parent="33" relname="span"> Senadores do PMDB bancaram a permanência de Machado</segment>
+    <segment id="15" parent="14" relname="circumstance"> por mais de uma década no comando da Transpetro.</segment>
+    <segment id="16" parent="17" relname="elaboration"> Machado foi indicação pessoal de Renan Calheiros,  presidente do Senado.</segment>
+    <segment id="18" parent="39" relname="elaboration"> A delação ainda poderá incluir nomes como o ex-presidente José Sarney,  o ex-ministro de Minas e Energia Edson Lobão e sabe-se lá mais quem!</segment>
+<group id="23" type="span" parent="26" relname="span" />
+<group id="28" type="span" parent="29" relname="same-unit" />
+<group id="29" type="multinuc" parent="26" relname="elaboration" />
+<group id="33" type="span" parent="34" relname="elaboration" />
+<group id="25" type="span" parent="24" relname="same-unit" />
+<group id="24" type="multinuc" parent="6" relname="attribution" />
+<group id="7" type="span" parent="23" relname="elaboration" />
+<group id="26" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="22" relname="span" />
+<group id="22" type="span" />
+  </body>
+</rst>
