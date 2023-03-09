@@ -1,0 +1,97 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Gilberto Barros se irrita com deputados brasileiros:</segment>
+    <segment id="2" parent="38" relname="span"> &quot;São uns cretinos,  uns enganadores [...] uns vagabundos&quot;.</segment>
+    <segment id="3" parent="17" relname="span">  Assim como todo brasileiro </segment>
+    <segment id="4" parent="3" relname="parenthetical">(que está com o &quot;saco cheio&quot; dos políticos),</segment>
+    <segment id="5" parent="37" relname="same-unit">  o apresentador Gilberto Barros também expressou sua indignação através das redes sociais. </segment>
+    <segment id="8" parent="36" relname="span"> &quot; É por isso que o brasileiro não gosta dos políticos &quot;</segment>
+    <segment id="9" parent="8" relname="attribution"> disse Barros.</segment>
+    <segment id="10" parent="36" relname="elaboration"> &quot;É absurdo, vergonhoso. São uns cretinos,  uns vagabundos&quot; ,  completou.</segment>
+    <segment id="15" parent="43" relname="preparation"> confira: abaixo,  um trecho da matéria publicada no site Congresso em Foco,  a que Gilberto Barros se refere:</segment>
+    <segment id="19" parent="16" relname="span"> Em 2015,  menos de 4% dos 513 integrantes da Casa estiveram presentes</segment>
+    <segment id="61" parent="19" relname="circumstance"> em todos os dias em que o comparecimento era exigido,</segment>
+    <segment id="42" parent="16" relname="conclusion">  ou seja,  aqueles em que há a chamada sessão deliberativa. </segment>
+    <segment id="20" parent="46" relname="span">Dos 19 parlamentares</segment>
+    <segment id="49" parent="20" relname="elaboration"> que marcaram presença em todos os 125 dias em que estavam previstas votações,</segment>
+    <segment id="45" parent="46" relname="comparison">  11 são &quot;calouros&quot; na Casa. </segment>
+    <segment id="21" parent="48" relname="span">Entre os &quot;veteranos&quot; mais presentes em plenário, </segment>
+    <segment id="47" parent="54" relname="preparation"> três também não tiveram nenhuma falta no mandato anterior:</segment>
+    <segment id="22" parent="53" relname="span"> Manato </segment>
+    <segment id="23" parent="22" relname="parenthetical">(SD-ES),</segment>
+    <segment id="24" parent="52" relname="span">  Tiririca</segment>
+    <segment id="25" parent="24" relname="parenthetical"> (PR-SP)</segment>
+    <segment id="26" parent="51" relname="span"> e Lincoln Portela </segment>
+    <segment id="44" parent="26" relname="parenthetical">(PR-MG)</segment>
+<group id="46" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="6" relname="span" />
+<group id="51" type="span" parent="54" relname="list" />
+<group id="52" type="span" parent="54" relname="list" />
+<group id="53" type="span" parent="54" relname="list" />
+<group id="54" type="multinuc" parent="56" relname="span" />
+<group id="17" type="span" parent="37" relname="same-unit" />
+<group id="36" type="span" parent="35" relname="span" />
+<group id="37" type="multinuc" parent="35" relname="interpretation" />
+<group id="38" type="span" parent="18" relname="summary" />
+<group id="35" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="16" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="7" relname="span" />
+<group id="56" type="span" parent="21" relname="comparison" />
+<group id="48" type="span" parent="50" relname="comparison" />
+<group id="48" type="span" parent="50" relname="comparison" />
+<group id="6" type="span" parent="7" relname="elaboration" />
+<group id="7" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="12" relname="elaboration" />
+<group id="13" type="span" />
+  </body>
+</rst>
