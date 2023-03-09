@@ -1,0 +1,78 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Ministro da Saúde:</segment>
+    <segment id="2" parent="5" relname="span"> &quot;Torço para que as mulheres peguem ZIKA antes da idade fértil&quot;.</segment>
+    <segment id="3" parent="4" relname="span">  O ministro da Saúde,  Marcelo Castro,  cometeu uma gafe terrível e infeliz hoje </segment>
+    <segment id="11" parent="3" relname="parenthetical">(13),</segment>
+    <segment id="7" parent="6" relname="same-unit">  ao afirmar,  em tom de brincadeira,  que </segment>
+    <segment id="13" parent="8" relname="span">torceria para que mulheres se contaminem pelo zika antes da idade fértil.</segment>
+    <segment id="14" parent="41" relname="attribution"> O comentário foi feito quando o ministro falava</segment>
+    <segment id="15" parent="41" relname="span"> sobre os projetos de desenvolvimento de vacina contra o vírus,</segment>
+    <segment id="16" parent="40" relname="joint">  que chegou ao Brasil no ano passado,  já circula em 20 Estados</segment>
+    <segment id="18" parent="40" relname="joint"> e está relacionado ao surto de nascimento de bebês com microcefalia.</segment>
+    <segment id="19" parent="10" relname="attribution"> O ministro disse que</segment>
+    <segment id="20" parent="10" relname="span"> o imunizante,  uma vez desenvolvido, </segment>
+    <segment id="35" parent="20" relname="motivation"> seria fornecido para parte da população considerada mais suscetível.</segment>
+<group id="4" type="span" parent="6" relname="same-unit" />
+<group id="5" type="span" parent="8" relname="summary" />
+<group id="6" type="multinuc" parent="13" relname="attribution" />
+<group id="8" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="12" relname="span" />
+<group id="40" type="multinuc" parent="15" relname="elaboration" />
+<group id="41" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="9" relname="circumstance" />
+<group id="12" type="span" parent="38" relname="span" />
+<group id="10" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="12" relname="elaboration" />
+<group id="38" type="span" />
+  </body>
+</rst>
