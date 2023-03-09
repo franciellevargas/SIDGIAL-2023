@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="volitional-cause">Na Alemanha,  atirador abre fogo em cinema</segment>
+    <segment id="3" parent="2" relname="span"> e atinge 25 pessoas.</segment>
+    <segment id="4" parent="26" relname="joint">  O atirador estava vestindo uma máscara</segment>
+    <segment id="5" parent="26" relname="joint"> e abriu fogo dentro de um cinema.</segment>
+    <segment id="6" parent="7" relname="span">  O atentado aconteceu na cidade de Viernheim e deixou entre 25 e 50 pessoas feridas hoje </segment>
+    <segment id="8" parent="6" relname="parenthetical">(23),</segment>
+    <segment id="9" parent="7" relname="attribution">  de acordo com informações da emissora de TV pública alemã.</segment>
+    <segment id="10" parent="21" relname="span"> A norte-americana &quot;CNN&quot; e a &quot;Reuters&quot; também noticiaram o fato.</segment>
+    <segment id="15" parent="10" relname="elaboration"> Viernheim fica próxima a Frankfurt.</segment>
+    <segment id="16" parent="22" relname="elaboration"> Ainda não se sabe o que motivou o ataque.</segment>
+    <segment id="17" parent="38" relname="sequence"> O local foi cercado pela polícia</segment>
+    <segment id="18" parent="37" relname="span"> e ainda não há informações</segment>
+    <segment id="19" parent="18" relname="condition"> se o atirador fez reféns.</segment>
+    <segment id="20" parent="23" relname="attribution"> O jornal &quot;Darmstädter Echo&quot; informou</segment>
+    <segment id="23" parent="41" relname="span"> pelo menos 50 pessoas podem estar feridas.</segment>
+<group id="26" type="multinuc" parent="2" relname="elaboration" />
+<group id="37" type="span" parent="38" relname="sequence" />
+<group id="38" type="multinuc" parent="31" relname="span" />
+<group id="41" type="span" parent="38" relname="elaboration" />
+<group id="2" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="11" relname="span" />
+<group id="7" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="24" relname="elaboration" />
+<group id="11" type="span" parent="22" relname="span" />
+<group id="21" type="span" parent="11" relname="elaboration" />
+<group id="22" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="12" relname="span" />
+<group id="31" type="span" parent="32" relname="elaboration" />
+<group id="12" type="span" />
+  </body>
+</rst>
