@@ -1,0 +1,105 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="preparation">Antagonista:</segment>
+    <segment id="2" parent="47" relname="volitional-cause"> Lobão pode mudar o relator da &quot;PEC do fim do foro&quot;</segment>
+    <segment id="47" parent="30" relname="span"> e dar um golpe nos brasileiros.</segment>
+    <segment id="5" parent="33" relname="span"> O senador Edison Lobão,</segment>
+    <segment id="6" parent="32" relname="span"> que preside a CCJ </segment>
+    <segment id="7" parent="6" relname="parenthetical">(Comissão de Constituição e Justiça do senado)</segment>
+    <segment id="8" parent="34" relname="same-unit"> decidiu</segment>
+    <segment id="9" parent="35" relname="span"> que irá indicar outro relator para a PEC do fim do foro privilegiado.</segment>
+    <segment id="10" parent="36" relname="span"> Randolfe Rodrigues,</segment>
+    <segment id="11" parent="10" relname="background"> atual relator,</segment>
+    <segment id="12" parent="37" relname="same-unit"> tem lutado com unhas e dentes para defender o fim da &quot;mamata política&quot;.</segment>
+    <segment id="14" parent="15" relname="span"> Caso isso aconteça, Lobão irá demonstrar </segment>
+    <segment id="16" parent="14" relname="parenthetical">(mais uma vez)</segment>
+    <segment id="17" parent="39" relname="span"> que não merece o cargo que tem </segment>
+    <segment id="18" parent="17" relname="parenthetical">[...]</segment>
+    <segment id="19" parent="40" relname="evaluation"> essa atitude é um ataque direto ao povo brasileiro!</segment>
+    <segment id="20" parent="21" relname="span"> Vale lembrar que o nome de Lobão já foi citado em algumas delações de ex-executivos de empreiteiras</segment>
+    <segment id="22" parent="20" relname="elaboration"> que estão presos pela Operação Lava Jato.</segment>
+    <segment id="23" parent="44" relname="span"> O senador quer jogar todo o trabalho de Randolfe, Álvaro Dias</segment>
+    <segment id="24" parent="23" relname="parenthetical"> (autor da PEC)</segment>
+    <segment id="25" parent="27" relname="joint"> e outros 39 senadores</segment>
+    <segment id="26" parent="27" relname="elaboration"> que apoiam o prejeto no LIXO!</segment>
+    <segment id="28" parent="29" relname="purpose"> Assista o comentário de Diego Amorim</segment>
+    <segment id="29" parent="46" relname="span"> para o Antagonista</segment>
+<group id="32" type="span" parent="5" relname="elaboration" />
+<group id="33" type="span" parent="34" relname="same-unit" />
+<group id="34" type="multinuc" parent="9" relname="attribution" />
+<group id="35" type="span" parent="51" relname="span" />
+<group id="36" type="span" parent="37" relname="same-unit" />
+<group id="37" type="multinuc" parent="41" relname="span" />
+<group id="15" type="span" parent="42" relname="span" />
+<group id="39" type="span" parent="15" relname="elaboration" />
+<group id="41" type="span" parent="40" relname="span" />
+<group id="42" type="span" parent="41" relname="condition" />
+<group id="40" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="50" relname="span" />
+<group id="21" type="span" parent="48" relname="span" />
+<group id="44" type="span" parent="27" relname="joint" />
+<group id="27" type="multinuc" parent="45" relname="span" />
+<group id="45" type="span" parent="53" relname="span" />
+<group id="46" type="span" parent="45" relname="imperative" />
+<group id="48" type="span" parent="43" relname="elaboration" />
+<group id="50" type="span" parent="35" relname="evaluation" />
+<group id="51" type="span" parent="52" relname="span" />
+<group id="53" type="span" parent="21" relname="elaboration" />
+<group id="30" type="span" parent="4" relname="span" />
+<group id="4" type="span" parent="51" relname="summary" />
+<group id="52" type="span" />
+  </body>
+</rst>
