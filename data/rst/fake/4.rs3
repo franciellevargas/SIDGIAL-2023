@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="22" relname="preparation">Policia Militar do Rio de Janeiro – Aviso.</segment>
+    <segment id="2" parent="19" relname="span"> Estamos atravessando tempos difíceis na cidade do Rio de Janeiro.</segment>
+    <segment id="3" parent="2" relname="imperative"> Esteja ciente.</segment>
+    <segment id="4" parent="19" relname="imperative"> Proteja-se e cuide de seus familiares !</segment>
+    <segment id="5" parent="6" relname="preparation"> A PMERJ orienta:</segment>
+    <segment id="6" parent="18" relname="span"> Acreditamos que o momento atual é de extrema preocupação.</segment>
+    <segment id="7" parent="16" relname="span"> Estamos em tempos difíceis</segment>
+    <segment id="8" parent="7" relname="nonvolitional-result"> e aí vão algumas medidas cautelares:</segment>
+    <segment id="9" parent="10" relname="list"> &quot;evite bares noturnos e lanchonetes em locais abertos;</segment>
+    <segment id="11" parent="10" relname="list"> Evite sair de casa após dez da noite.</segment>
+    <segment id="12" parent="10" relname="list"> Sempre suspeitar de tudo e de todos.</segment>
+    <segment id="13" parent="10" relname="list"> Ter uma postura defensiva é estar sempre atento.&quot;</segment>
+    <segment id="14" parent="10" relname="imperative"> Oriente seus familiares, seus amigos, e se quiser compartilhe.</segment>
+<group id="10" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="17" relname="span" />
+<group id="16" type="span" parent="15" relname="preparation" />
+<group id="17" type="span" parent="21" relname="elaboration" />
+<group id="18" type="span" parent="20" relname="elaboration" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" />
+  </body>
+</rst>
