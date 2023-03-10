@@ -1,0 +1,118 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="attribution">Kátia Abreu diz que</segment>
+    <segment id="3" parent="5" relname="concession"> vai colocar sua expulsão em uma moldura,</segment>
+    <segment id="5" parent="11" relname="span"> mas não para de reclamar.</segment>
+    <segment id="6" parent="13" relname="span">	
+
+A senadora Kátia Abreu </segment>
+    <segment id="4" parent="6" relname="parenthetical">(sem partido-TO)</segment>
+    <segment id="2" parent="14" relname="same-unit"> disse que</segment>
+    <segment id="7" parent="15" relname="span"> sua expulsão do PMDB foi resultado de uma ação da cúpula atual da legenda que,</segment>
+    <segment id="8" parent="7" relname="attribution"> segundo ela,</segment>
+    <segment id="9" parent="16" relname="same-unit"> é oportunista.</segment>
+    <segment id="10" parent="23" relname="span">
+
+“Amanhã eu vou botar numa moldura dourada a minha expulsão,</segment>
+    <segment id="18" parent="10" relname="justify"> porque das mãos de onde veio, é um atestado de boa conduta para o meu currículo.</segment>
+    <segment id="19" parent="25" relname="list"> Essas pessoas que me expulsaram não servem ao país.</segment>
+    <segment id="20" parent="25" relname="list"> Eles se servem do país em seus benefícios próprios”,</segment>
+    <segment id="21" parent="26" relname="attribution"> disse Kátia Abreu.</segment>
+    <segment id="22" parent="32" relname="interjection">
+
+Ué,</segment>
+    <segment id="29" parent="32" relname="span"> mas se a expulsão é algo tão bom para seu currículo,</segment>
+    <segment id="30" parent="29" relname="justify"> por que tanta choradeira, Kátia?</segment>
+    <segment id="31" parent="45" relname="evaluation">
+
+Sabemos o motivo.</segment>
+    <segment id="36" parent="45" relname="span"> Provavelmente Kátia não tem valor para o PT,</segment>
+    <segment id="37" parent="36" relname="elaboration"> partido que já deveria tê-la absorvido.</segment>
+    <segment id="38" parent="39" relname="evaluation"> Ao que parece</segment>
+    <segment id="39" parent="47" relname="span"> o PT gostava de Kátia somente se ela ficasse entrincheirada dentro do PMDB.</segment>
+    <segment id="40" parent="48" relname="volitional-result">
+
+Ou seja, isso é se rebaixar demais.</segment>
+    <segment id="41" parent="49" relname="evidence"> Resta a Kátia ficar chorando as pitangas por todos os cantos.</segment>
+    <segment id="42" parent="52" relname="preparation">
+
+Em tempo:</segment>
+    <segment id="43" parent="52" relname="list"> até o momento o PT não cadastrou Kátia Abreu em suas fileiras.</segment>
+    <segment id="44" parent="52" relname="list"> Que situação patética para a ex-ministra da Agricultura de Dilma.</segment>
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="24" relname="span" />
+<group id="13" type="span" parent="14" relname="same-unit" />
+<group id="14" type="multinuc" parent="16" relname="attribution" />
+<group id="15" type="span" parent="16" relname="same-unit" />
+<group id="16" type="multinuc" parent="17" relname="span" />
+<group id="17" type="span" parent="28" relname="span" />
+<group id="23" type="span" parent="26" relname="span" />
+<group id="24" type="span" />
+<group id="25" type="multinuc" parent="23" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="34" relname="contrast" />
+<group id="28" type="span" parent="54" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="34" relname="contrast" />
+<group id="34" type="multinuc" parent="35" relname="span" />
+<group id="35" type="span" parent="50" relname="span" />
+<group id="45" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="48" relname="span" />
+<group id="47" type="span" parent="46" relname="elaboration" />
+<group id="48" type="span" parent="49" relname="span" />
+<group id="49" type="span" parent="51" relname="span" />
+<group id="50" type="span" parent="17" relname="evaluation" />
+<group id="51" type="span" parent="35" relname="evaluation" />
+<group id="52" type="multinuc" parent="53" relname="span" />
+<group id="53" type="span" parent="28" relname="elaboration" />
+<group id="54" type="span" parent="12" relname="elaboration" />
+  </body>
+</rst>
