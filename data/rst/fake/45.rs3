@@ -1,0 +1,109 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="evaluation">Ciro Gomes elogia Temer:</segment>
+    <segment id="2" parent="30" relname="span"> &quot;Conspirador, safado, vaidoso e filho da #$%@&quot;.</segment>
+    <segment id="3" parent="33" relname="evaluation">  Ciro gomes metralhou Michel Temer. </segment>
+    <segment id="4" parent="32" relname="attribution"> Disse Ciro em abril de 2016:</segment>
+    <segment id="5" parent="27" relname="span"> No dia seguinte em que a Dilma perder o mandato, o eleitor frustrado do Aécio não se verá representado</segment>
+    <segment id="12" parent="5" relname="parenthetical"> [...]</segment>
+    <segment id="13" parent="28" relname="span"> a crise econômica vai piorar</segment>
+    <segment id="14" parent="13" relname="parenthetical"> [...]</segment>
+    <segment id="15" parent="31" relname="joint"> e quem está preocupado com a decência do Brasil, que durma com um barulho desses ...&quot;</segment>
+    <segment id="6" parent="31" relname="elaboration"> O Michel Temer é vaidoso, safado, conspirador e um grande FDP &quot;.</segment>
+    <segment id="7" parent="48" relname="span"> Usaram urnas fabricadas em 2020 e urnas de antes de 2020.</segment>
+    <segment id="8" parent="7" relname="elaboration"> As novas podem ser auditadas.</segment>
+    <segment id="9" parent="35" relname="span"> As antigas não </segment>
+    <segment id="10" parent="9" relname="parenthetical">(...)</segment>
+    <segment id="11" parent="36" relname="same-unit"> As antigas foram mandadas principalmente para cidades do interior do nordeste.</segment>
+    <segment id="16" parent="45" relname="span"> Essas urnas velhas aparecem em sua maioria com ZERO voto para Bolsonaro em sessões.</segment>
+    <segment id="17" parent="16" relname="comparison"> Na nova urna isso não acontece.</segment>
+    <segment id="18" parent="37" relname="span"> Descobriram que as urnas têm pelo menos 2 softwares</segment>
+    <segment id="19" parent="18" relname="parenthetical"> (2 códigos fontes)</segment>
+    <segment id="20" parent="37" relname="elaboration"> com um algoritmo diferente que limita o número de votos para o 22 e libera para o 13,</segment>
+    <segment id="21" parent="39" relname="span"> ou seja, o código-fonte já fazia a alteração na própria urna. </segment>
+    <segment id="22" parent="40" relname="span">A fraude foi sistêmica </segment>
+    <segment id="23" parent="22" relname="parenthetical">(...).</segment>
+    <segment id="24" parent="41" relname="span"> Não foi só na urna e nem só na apuração,</segment>
+    <segment id="25" parent="24" relname="comparison"> e sim em TODO O PROCESSO, desde o início.</segment>
+    <segment id="26" parent="42" relname="evaluation"> Lula foi só uma peça desse sistema</segment>
+<group id="27" type="span" parent="29" relname="same-unit" />
+<group id="28" type="span" parent="29" relname="same-unit" />
+<group id="29" type="multinuc" parent="31" relname="joint" />
+<group id="30" type="span" parent="34" relname="preparation" />
+<group id="31" type="multinuc" parent="32" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="49" relname="span" />
+<group id="35" type="span" parent="36" relname="same-unit" />
+<group id="36" type="multinuc" parent="46" relname="span" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="21" relname="conclusion" />
+<group id="39" type="span" parent="44" relname="span" />
+<group id="40" type="span" parent="42" relname="same-unit" />
+<group id="41" type="span" parent="42" relname="same-unit" />
+<group id="42" type="multinuc" parent="43" relname="span" />
+<group id="43" type="span" parent="39" relname="elaboration" />
+<group id="44" type="span" parent="46" relname="elaboration" />
+<group id="45" type="span" parent="36" relname="elaboration" />
+<group id="46" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="48" relname="elaboration" />
+<group id="48" type="span" parent="50" relname="span" />
+<group id="49" type="span" parent="51" relname="span" />
+<group id="49" type="span" parent="51" relname="span" />
+<group id="50" type="span" parent="49" relname="elaboration" />
+<group id="51" type="span" />
+  </body>
+</rst>
