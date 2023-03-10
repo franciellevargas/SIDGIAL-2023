@@ -1,0 +1,119 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="localization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="evaluation">Garotinho ganha prêmio após teatro sobre surra na cadeia:</segment>
+    <segment id="2" parent="4" relname="span"> vai para presídio de segurança máxima.</segment>
+    <segment id="3" parent="8" relname="span">
+
+O ex-governador do Rio de Janeiro</segment>
+    <segment id="5" parent="3" relname="elaboration"> Anthony Garotinho</segment>
+    <segment id="6" parent="9" relname="same-unit"> será transferido</segment>
+    <segment id="7" parent="12" relname="span"> para um presídio de segurança máxima.</segment>
+    <segment id="10" parent="13" relname="span">
+
+O juiz Ralph Machado Manaes Júnior,</segment>
+    <segment id="11" parent="10" relname="elaboration"> do Tribunal Regional Eleitoral da 98a Zona Eleitoral do Rio de Janeiro,</segment>
+    <segment id="14" parent="24" relname="same-unit"> deu a decisão na tarde desta sexta (24)</segment>
+    <segment id="16" parent="18" relname="span"> para o ex-governador ser transferido imediatamente</segment>
+    <segment id="17" parent="16" relname="circumstance"> do presídio de Benfica para um presídio federal de segurança máxima.</segment>
+    <segment id="21" parent="15" relname="attribution"> As informações são dO Globo.</segment>
+    <segment id="22" parent="19" relname="attribution">
+
+O juiz disse, em sua decisão,</segment>
+    <segment id="19" parent="26" relname="span"> que Garotinho causando transtornos em Benfica e teria se autolesionado.</segment>
+    <segment id="23" parent="27" relname="attribution"> Isso foi descoberto após Garotinho ter dito</segment>
+    <segment id="27" parent="32" relname="span"> que foi agredido na cadeia</segment>
+    <segment id="28" parent="27" relname="circumstance"> durante a noite.</segment>
+    <segment id="29" parent="25" relname="sequence"> O juiz recebeu essas informações antes da queixa de Garotinho.</segment>
+    <segment id="31" parent="34" relname="attribution">
+
+Garotinho disse</segment>
+    <segment id="30" parent="34" relname="span"> que tomou uma surra</segment>
+    <segment id="33" parent="30" relname="circumstance"> durante a noite dentro de sua cela na penitenciária de Benfica.</segment>
+    <segment id="35" parent="43" relname="attribution"> O advogado do ex-governador disse que seu cliente relatou</segment>
+    <segment id="38" parent="42" relname="span"> que uma pessoa invadiu a cela</segment>
+    <segment id="39" parent="38" relname="circumstance"> onde ele dormia</segment>
+    <segment id="40" parent="43" relname="sequence"> e o agrediu com um porrete.</segment>
+    <segment id="41" parent="44" relname="span">
+
+Seja lá como for, se o problema é segurança,</segment>
+    <segment id="45" parent="41" relname="condition"> está resolvido.</segment>
+    <segment id="46" parent="52" relname="sequence"> Agora ele vai para um lugar de segurança máxima.</segment>
+<group id="4" type="span" parent="47" relname="summary" />
+<group id="8" type="span" parent="9" relname="same-unit" />
+<group id="9" type="multinuc" parent="7" relname="purpose" />
+<group id="12" type="span" parent="47" relname="span" />
+<group id="13" type="span" parent="24" relname="same-unit" />
+<group id="24" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="20" relname="span" />
+<group id="18" type="span" parent="24" relname="purpose" />
+<group id="20" type="span" parent="48" relname="span" />
+<group id="26" type="span" parent="25" relname="sequence" />
+<group id="32" type="span" parent="25" relname="sequence" />
+<group id="25" type="multinuc" parent="49" relname="span" />
+<group id="34" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="50" relname="span" />
+<group id="42" type="span" parent="43" relname="sequence" />
+<group id="43" type="multinuc" parent="37" relname="span" />
+<group id="37" type="span" parent="36" relname="elaboration" />
+<group id="44" type="span" parent="49" relname="evaluation" />
+<group id="47" type="span" parent="54" relname="span" />
+<group id="48" type="span" parent="52" relname="sequence" />
+<group id="49" type="span" parent="51" relname="span" />
+<group id="50" type="span" parent="25" relname="elaboration" />
+<group id="51" type="span" parent="20" relname="nonvolitional-cause" />
+<group id="52" type="multinuc" parent="53" relname="span" />
+<group id="53" type="span" parent="12" relname="evidence" />
+<group id="54" type="span" />
+  </body>
+</rst>
