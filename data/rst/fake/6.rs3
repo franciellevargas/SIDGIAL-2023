@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="spatiality" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Raquel Dodge faz o que Janot não fazia:</segment>
+    <segment id="2" parent="17" relname="span"> pediu a prisão da senadora petista Gleisi.</segment>
+    <segment id="3" parent="8" relname="span">
+
+A procuradora-geral da República, Raquel Dodge, pediu a condenação da senadora petista Gleisi Hoffmann</segment>
+    <segment id="7" parent="3" relname="elaboration"> no âmbito da Lava Jato.</segment>
+    <segment id="4" parent="5" relname="attribution"> Para a PGR,</segment>
+    <segment id="5" parent="6" relname="span"> Gleisi cometeu crimes de corrupção passiva e lavagem de dinheiro.</segment>
+    <segment id="9" parent="10" relname="preparation">
+
+Detalhe:</segment>
+    <segment id="10" parent="11" relname="span"> Dodge também quer que Gleisi devolva R$ 4 milhões aos cofres públicos e perca o mandato.</segment>
+    <segment id="12" parent="15" relname="attribution">
+
+Abaixo estão as alegações de Raquel Dodge:</segment>
+    <segment id="13" parent="15" relname="list">
+
+Ao que parece, com a saída do PGR Rodrigo Janot passou a fase em que havia motivação apenas para tentar prender senadores que fossem adversários do PT.</segment>
+    <segment id="14" parent="15" relname="list">
+
+Estamos exigindo a prisão de Gleisi Hoffmann há muito, mas muito tempo.</segment>
+<group id="8" type="span" parent="18" relname="span" />
+<group id="6" type="span" parent="18" relname="evidence" />
+<group id="11" type="span" parent="19" relname="enablement" />
+<group id="15" type="multinuc" parent="16" relname="span" />
+<group id="16" type="span" parent="20" relname="enablement" />
+<group id="17" type="span" parent="8" relname="summary" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" />
+  </body>
+</rst>
