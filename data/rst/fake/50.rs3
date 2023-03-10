@@ -1,0 +1,100 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="25" relname="span">Fátima Bernardes é flagrada em clima de romance com novo &quot;affair&quot;.</segment>
+    <segment id="2" parent="22" relname="span"> Fátima Bernardes </segment>
+    <segment id="3" parent="2" relname="parenthetical">(55 anos)</segment>
+    <segment id="4" parent="23" relname="span"> foi fotografada ao lado de um moreno simpático na noite de hoje </segment>
+    <segment id="5" parent="4" relname="parenthetical">(2).</segment>
+    <segment id="6" parent="25" relname="interpretation"> O casal aparentava um certo &quot;ar de romance&quot;. </segment>
+    <segment id="7" parent="27" relname="span">Ambos foram passear no Shopping da Gávea, zona sul do Rio, e curtir um cineminha.</segment>
+    <segment id="8" parent="7" relname="evidence"> Nas imagens abaixo, eles aparecem sorrindo, andando de mãos dadas e abraçadinhos.</segment>
+    <segment id="9" parent="10" relname="attribution"> De acordo com o jornalista &quot;fofoqueiro&quot; Léo Dias,</segment>
+    <segment id="10" parent="28" relname="span"> o galã que conquistou o coração de Fátima se chama Túlio Gadêlha, é advogado e tem 29 anos.</segment>
+    <segment id="11" parent="12" relname="interjection"> Ahhh....</segment>
+    <segment id="12" parent="30" relname="span"> o filme que o casal foi assistir se chama &quot;Depois daquela montanha&quot;.</segment>
+    <segment id="13" parent="14" relname="attribution">Médico afirma</segment>
+    <segment id="14" parent="33" relname="span"> que Lula esta com síndrome da amnésia e entra com pedido de proteção ao paciente.</segment>
+    <segment id="15" parent="34" relname="span"> Em uma coletiva exclusiva, o medico de Lula apresentou um laudo</segment>
+    <segment id="16" parent="15" relname="elaboration"> que comprova que o ex-presidente está sofrendo de amnésia crônica.</segment>
+    <segment id="17" parent="36" relname="attribution"> O médico afirma</segment>
+    <segment id="18" parent="35" relname="span"> que Lula nunca mentiu quando disse que não sabia de nada,</segment>
+    <segment id="19" parent="18" relname="justify"> pois na verdade por conta da doença ele não sabia mesmo ele podia até saber,</segment>
+    <segment id="20" parent="36" relname="contrast"> mas não lembrava.</segment>
+    <segment id="21" parent="39" relname="span">O médico também explicou que pessoas com o nível em Lula se encontra costuma-se esquecer de dados importantes de sua própria vida,</segment>
+    <segment id="38" parent="21" relname="elaboration"> assim como seus próprios familiares.</segment>
+<group id="22" type="span" parent="24" relname="same-unit" />
+<group id="23" type="span" parent="24" relname="same-unit" />
+<group id="24" type="multinuc" parent="1" relname="elaboration" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="32" relname="span" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="27" relname="elaboration" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="elaboration" />
+<group id="31" type="span" parent="26" relname="elaboration" />
+<group id="32" type="span" parent="43" relname="span" />
+<group id="33" type="span" parent="41" relname="summary" />
+<group id="34" type="span" parent="41" relname="span" />
+<group id="35" type="span" parent="36" relname="contrast" />
+<group id="36" type="multinuc" parent="37" relname="span" />
+<group id="37" type="span" parent="40" relname="span" />
+<group id="39" type="span" parent="37" relname="elaboration" />
+<group id="40" type="span" parent="34" relname="elaboration" />
+<group id="41" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="32" relname="elaboration" />
+<group id="43" type="span" />
+  </body>
+</rst>
