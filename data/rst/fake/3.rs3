@@ -1,0 +1,98 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Temer resolve o problema de Luislinda:</segment>
+    <segment id="2" parent="24" relname="span"> liberdade, ainda que tardia.</segment>
+    <segment id="3" parent="26" relname="span">
+
+A ministra dos Direitos Humanos Luislinda Valois entrou para a galeria dos sem noção</segment>
+    <segment id="25" parent="3" relname="interpretation"> ao pedir para acumular o salário da função de ministra com a aposentadoria de desembargadora,</segment>
+    <segment id="4" parent="26" relname="elaboration"> o que daria R$ 61 mil, muito além do teto constitucional.</segment>
+    <segment id="6" parent="7" relname="attribution"> Ao fazê-lo, alegou que</segment>
+    <segment id="7" parent="5" relname="span"> sua condição, sem sombra de dúvida, se assemelha a trabalho escravo.</segment>
+    <segment id="8" parent="30" relname="attribution">
+
+Agora o jornal carioca O Dia divulga que</segment>
+    <segment id="9" parent="30" relname="sequence"> Temer decidiu demitir Luislinda</segment>
+    <segment id="12" parent="30" relname="sequence"> e dar um fim ao seu problema.</segment>
+    <segment id="13" parent="15" relname="interpretation"> Ao que parece, o presidente ainda busca uma saída honrosa para Luislinda.</segment>
+    <segment id="16" parent="32" relname="interpretation"> Talvez outro cargo.</segment>
+    <segment id="17" parent="33" relname="evaluation"> Não sabemos ainda.</segment>
+    <segment id="18" parent="34" relname="span">
+
+Sua substituta deve ser a deputada federal licenciada Tia Eron </segment>
+    <segment id="19" parent="18" relname="parenthetical">(PRB),</segment>
+    <segment id="20" parent="34" relname="elaboration"> atual secretária municipal de Promoção Social.</segment>
+    <segment id="22" parent="21" relname="conclusion">
+
+O que importa é que Luislinda,</segment>
+    <segment id="21" parent="36" relname="span"> enfim, conseguiu sua liberdade.</segment>
+    <segment id="23" parent="36" relname="evaluation"> Ainda que tardia.</segment>
+<group id="24" type="span" parent="28" relname="evaluation" />
+<group id="5" type="span" parent="27" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="38" relname="span" />
+<group id="30" type="multinuc" parent="15" relname="span" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="10" relname="span" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="35" relname="evaluation" />
+<group id="38" type="span" parent="28" relname="span" />
+<group id="15" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="11" relname="span" />
+<group id="10" type="span" parent="14" relname="elaboration" />
+<group id="11" type="span" parent="38" relname="elaboration" />
+<group id="28" type="span" parent="29" relname="span" />
+<group id="29" type="span" />
+  </body>
+</rst>
