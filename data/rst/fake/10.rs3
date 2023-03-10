@@ -1,0 +1,86 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="spatiality" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="preparation">Veja aqui</segment>
+    <segment id="3" parent="15" relname="span"> o telefone e o e-mail de Gilmar Mendes.</segment>
+    <segment id="2" parent="15" relname="imperative"> Demonstre sua indignação!</segment>
+    <segment id="4" parent="19" relname="span"> Gilmar Mendes conseguiu livrar Michel Temer e Dilma Rousseff da condenação.</segment>
+    <segment id="5" parent="18" relname="joint"> Em seu juízo a chapa Dilma/Temer é honesta</segment>
+    <segment id="6" parent="18" relname="joint"> e estes dois brasileiros merecem o respeito da nação.</segment>
+    <segment id="7" parent="20" relname="joint">
+
+Eles estão de posse de seus direitos políticos</segment>
+    <segment id="8" parent="20" relname="joint"> e poderão voltar em 2018.</segment>
+    <segment id="9" parent="10" relname="motivation"> Dilma já anunciou que se candidatará a senadora da república.</segment>
+    <segment id="10" parent="22" relname="span"> Michel Temer pode voltar até como presidente.</segment>
+    <segment id="11" parent="23" relname="imperative"> Não permita que este julgamento vergonhoso passe em branco.</segment>
+    <segment id="12" parent="13" relname="antithesis"> Envie mensagens pro e-mail de Gilmar Mendes</segment>
+    <segment id="13" parent="23" relname="span"> ou até mesmo telefone para ele manifestando toda sua indignação.</segment>
+    <segment id="14" parent="24" relname="span"> Seguem aqui os contatos do ministro</segment>
+    <segment id="17" parent="14" relname="evaluation"> que envergonhou o Brasil.</segment>
+    <segment id="16" parent="25" relname="span">
+
+MINISTRO GILMAR MENDES
+Telefone: (61) 3217-4175
+E-mail: mgilmar@stf.jus.br
+E-mail: audienciasgilmarmendes@stf.jus.br</segment>
+<group id="15" type="span" parent="26" relname="span" />
+<group id="18" type="multinuc" parent="4" relname="evaluation" />
+<group id="20" type="multinuc" parent="27" relname="span" />
+<group id="22" type="span" parent="20" relname="elaboration" />
+<group id="23" type="span" parent="29" relname="span" />
+<group id="24" type="span" parent="16" relname="preparation" />
+<group id="25" type="span" parent="29" relname="elaboration" />
+<group id="26" type="span" parent="21" relname="span" />
+<group id="19" type="span" parent="26" relname="elaboration" />
+<group id="21" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="21" relname="elaboration" />
+<group id="28" type="span" parent="31" relname="span" />
+<group id="29" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="28" relname="elaboration" />
+<group id="31" type="span" />
+  </body>
+</rst>
