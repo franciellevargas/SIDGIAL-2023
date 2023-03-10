@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Em nome de Jesus?</segment>
+    <segment id="2" parent="3" relname="span"> Temer e Valdemiro Santiago se encontram em Brasília.</segment>
+    <segment id="5" parent="25" relname="span"> Na manhã de hoje</segment>
+    <segment id="6" parent="5" relname="parenthetical"> (15)</segment>
+    <segment id="7" parent="26" relname="span"> o presidente Michel Temer recebeu o apóstolo Valdemiro Santiago,</segment>
+    <segment id="8" parent="7" relname="elaboration"> líder da Igreja Mundial do Poder de Deus</segment>
+    <segment id="9" parent="27" relname="circumstance"> no Palácio do Planalto, em Brasília.</segment>
+    <segment id="10" parent="30" relname="contrast"> A assessoria do presidente não informou o motivo do encontro,</segment>
+    <segment id="11" parent="30" relname="contrast"> mas provavelmente Temer estava angariando fiéis</segment>
+    <segment id="12" parent="31" relname="span"> para apoiar sua reforma da Previdência,</segment>
+    <segment id="13" parent="31" relname="justify"> já que parte da sociedade tem recebido o projeto com certa rejeição.</segment>
+    <segment id="14" parent="15" relname="attribution"> O jornal Valor Econômico informou</segment>
+    <segment id="15" parent="33" relname="span"> que Temer pediu ajuda para Santiago em troca de ... sabe-se lá o quê!</segment>
+    <segment id="16" parent="37" relname="disjunction"> Será que Santiago conseguiu &quot;arrancar&quot; o dízimo do presidente</segment>
+    <segment id="19" parent="36" relname="span"> ou será que ele presenteou Temer</segment>
+    <segment id="20" parent="19" relname="elaboration"> com uma mala de objetos ungidos?</segment>
+    <segment id="21" parent="37" relname="imperative"> Saiam pra lá, Satanases!</segment>
+<group id="25" type="span" parent="27" relname="same-unit" />
+<group id="26" type="span" parent="27" relname="same-unit" />
+<group id="27" type="multinuc" parent="28" relname="span" />
+<group id="28" type="span" parent="4" relname="span" />
+<group id="30" type="multinuc" parent="12" relname="purpose" />
+<group id="31" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="34" relname="span" />
+<group id="33" type="span" parent="32" relname="elaboration" />
+<group id="34" type="span" parent="39" relname="span" />
+<group id="36" type="span" parent="37" relname="disjunction" />
+<group id="37" type="multinuc" parent="38" relname="span" />
+<group id="38" type="span" parent="34" relname="evaluation" />
+<group id="39" type="span" parent="28" relname="elaboration" />
+<group id="3" type="span" parent="4" relname="summary" />
+<group id="4" type="span" parent="17" relname="span" />
+<group id="17" type="span" />
+  </body>
+</rst>
